@@ -1,6 +1,6 @@
 ## 알고리즘 Study
 
-백준 기반 알고리즘 학습 및 코드리뷰 스터디
+백준 기반 알고리즘 학습 및 코드리뷰 스터디<br>
 기간 : 2025.08.01 -
 
 [BaekJoon 바로가기](https://www.acmicpc.net/step)
@@ -9,7 +9,7 @@
 
 ### Pull-Request 제출 방법
 
-제목 : [ BaekJoon ] PR 제출일자 - Ex. 2025.08.01.
+제목 : [ BaekJoon ] PR 제출일자 - Ex. 2025.08.01.<br>
 라벨 : 이름 / 언어 - Ex. Jiyoung / Javascript
 
 ### Convention
