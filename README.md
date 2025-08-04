@@ -8,10 +8,51 @@
 
 ### 👥 Member
 
-| 지영                                                                                                                   | 민애                                                                                                       | 슬기                                                                                                         |
-| ---------------------------------------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------ |
-| [![지영](https://github.com/ziyoungsRoom.png)](https://github.com/ziyoungsRoom)                                        | [![민애](https://github.com/ydmaad.png)](https://github.com/ydmaad)                                        | [![슬기](https://github.com/Sseulnim.png)](https://github.com/Sseulnim)                                      |
-| [![Solved.ac프로필](http://mazassumnida.wtf/api/mini/generate_badge?boj=ziyoungsRoom)](https://solved.ac/ziyoungsRoom) | [![Solved.ac프로필](http://mazassumnida.wtf/api/mini/generate_badge?boj=ydmaad)](https://solved.ac/ydmaad) | [![Solved.ac프로필](http://mazassumnida.wtf/api/mini/generate_badge?boj=Sseul_v)](https://solved.ac/Sseul_v) |
+<table style="margin: auto; text-align: center;">
+  <thead>
+    <tr>
+      <th>지영</th>
+      <th>민애</th>
+      <th>슬기</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>
+        <a href="https://github.com/ziyoungsRoom">
+          <img src="https://github.com/ziyoungsRoom.png" alt="지영 GitHub 프로필" width="72" height="72"  />
+        </a>
+      </td>
+      <td>
+        <a href="https://github.com/ydmaad">
+          <img src="https://github.com/ydmaad.png" alt="민애 GitHub 프로필" width="72" height="72"  />
+        </a>
+      </td>
+      <td>
+        <a href="https://github.com/Sseulnim">
+          <img src="https://github.com/Sseulnim.png" alt="슬기 GitHub 프로필" width="72" height="72" />
+        </a>
+      </td>
+    </tr>
+    <tr>
+      <td>
+        <a href="https://solved.ac/ziyoungsRoom">
+          <img src="http://mazassumnida.wtf/api/mini/generate_badge?boj=ziyoungsRoom" alt="지영 solved.ac 프로필" />
+        </a>
+      </td>
+      <td>
+        <a href="https://solved.ac/ydmaad">
+          <img src="http://mazassumnida.wtf/api/mini/generate_badge?boj=ydmaad" alt="민애 solved.ac 프로필" />
+        </a>
+      </td>
+      <td>
+        <a href="https://solved.ac/Sseul_v">
+          <img src="http://mazassumnida.wtf/api/mini/generate_badge?boj=Sseul_v" alt="슬기 solved.ac 프로필" />
+        </a>
+      </td>
+    </tr>
+  </tbody>
+</table>
 
 ### Pull-Request 제출 방법
 
