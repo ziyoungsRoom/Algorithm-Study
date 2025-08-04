@@ -8,33 +8,33 @@
 
 ### 👥 Member
 
-<table style="margin: auto; text-align: center;">
+<table>
   <thead>
-    <tr>
+    <tr align="center">
       <th>지영</th>
       <th>민애</th>
       <th>슬기</th>
     </tr>
   </thead>
   <tbody>
-    <tr>
+    <tr align="center">
       <td>
         <a href="https://github.com/ziyoungsRoom">
-          <img src="https://github.com/ziyoungsRoom.png" alt="지영 GitHub 프로필" width="72" height="72"  />
+          <img src="https://github.com/ziyoungsRoom.png" alt="지영 GitHub 프로필" width="140px"  />
         </a>
       </td>
       <td>
         <a href="https://github.com/ydmaad">
-          <img src="https://github.com/ydmaad.png" alt="민애 GitHub 프로필" width="72" height="72"  />
+          <img src="https://github.com/ydmaad.png" alt="민애 GitHub 프로필" width="140px"  />
         </a>
       </td>
       <td>
         <a href="https://github.com/Sseulnim">
-          <img src="https://github.com/Sseulnim.png" alt="슬기 GitHub 프로필" width="72" height="72" />
+          <img src="https://github.com/Sseulnim.png" alt="슬기 GitHub 프로필" width="140px" />
         </a>
       </td>
     </tr>
-    <tr>
+    <tr align="center">
       <td>
         <a href="https://solved.ac/ziyoungsRoom">
           <img src="http://mazassumnida.wtf/api/mini/generate_badge?boj=ziyoungsRoom" alt="지영 solved.ac 프로필" />
@@ -107,9 +107,9 @@ BaekJoon Gold 티어 달성 !
 
 ### 문제 List
 
-<table style="margin: auto; border-collapse: collapse;">
+<table>
   <thead>
-    <tr style="text-align: center;">
+    <tr align="center">
       <th>난이도</th>
       <th>문제 번호</th>
       <th>문제 이름</th>
@@ -119,7 +119,7 @@ BaekJoon Gold 티어 달성 !
     </tr>
   </thead>
   <tbody>
-    <tr style="text-align: center;">
+    <tr align="center">
       <td><img src="https://static.solved.ac/tier_small/s1.svg" alt="Sprout" width="16px" /></td>
       <td>1008</td>
       <td><a href="https://www.acmicpc.net/problem/1008">A/B</a></td>
@@ -127,7 +127,7 @@ BaekJoon Gold 티어 달성 !
       <td>민애</td>
       <td>슬기</td>
     </tr>
-    <tr style="text-align: center;">
+    <tr align="center">
       <td><img src="https://static.solved.ac/tier_small/s1.svg" alt="Sprout" width="16px" /></td>
       <td>1330</td>
       <td><a href="https://www.acmicpc.net/problem/1330">두 수 비교하기</a></td>
@@ -135,7 +135,7 @@ BaekJoon Gold 티어 달성 !
       <td>민애</td>
       <td>슬기</td>
     </tr>
-    <tr style="text-align: center;">
+    <tr align="center">
       <td><img src="https://static.solved.ac/tier_small/s1.svg" alt="Sprout" width="16px" /></td>
       <td>2438</td>
       <td><a href="https://www.acmicpc.net/problem/2438">별 찍기-1</a></td>
@@ -143,7 +143,7 @@ BaekJoon Gold 티어 달성 !
       <td>민애</td>
       <td>슬기</td>
     </tr>
-    <tr style="text-align: center;">
+    <tr align="center">
       <td><img src="https://static.solved.ac/tier_small/s1.svg" alt="Sprout" width="16px" /></td>
       <td>2557</td>
       <td><a href="https://www.acmicpc.net/problem/2557">Hello World</a></td>
@@ -151,7 +151,7 @@ BaekJoon Gold 티어 달성 !
       <td>민애</td>
       <td>슬기</td>
     </tr>
-    <tr style="text-align: center;">
+    <tr align="center">
       <td><img src="https://static.solved.ac/tier_small/s1.svg" alt="Sprout" width="16px" /></td>
       <td>2739</td>
       <td><a href="https://www.acmicpc.net/problem/2739">구구단</a></td>
@@ -159,7 +159,7 @@ BaekJoon Gold 티어 달성 !
       <td>민애</td>
       <td>슬기</td>
     </tr>
-    <tr style="text-align: center;">
+    <tr align="center">
       <td><img src="https://static.solved.ac/tier_small/s1.svg" alt="Sprout" width="16px" /></td>
       <td>10869</td>
       <td><a href="https://www.acmicpc.net/problem/10869">사칙연산</a></td>
@@ -167,7 +167,7 @@ BaekJoon Gold 티어 달성 !
       <td>민애</td>
       <td>슬기</td>
     </tr>
-    <tr style="text-align: center;">
+    <tr align="center">
       <td><img src="https://static.solved.ac/tier_small/s1.svg" alt="Sprout" width="16px" /></td>
       <td>10950</td>
       <td><a href="https://www.acmicpc.net/problem/10950">A+B-3</a></td>
@@ -175,7 +175,7 @@ BaekJoon Gold 티어 달성 !
       <td>민애</td>
       <td>슬기</td>
     </tr>
-    <tr style="text-align: center;">
+    <tr align="center">
       <td><img src="https://static.solved.ac/tier_small/s1.svg" alt="Sprout" width="16px" /></td>
       <td>10951</td>
       <td><a href="https://www.acmicpc.net/problem/10951">A+B-4</a></td>
@@ -183,7 +183,7 @@ BaekJoon Gold 티어 달성 !
       <td>민애</td>
       <td>슬기</td>
     </tr>
-    <tr style="text-align: center;">
+    <tr align="center">
       <td><img src="https://static.solved.ac/tier_small/s1.svg" alt="Sprout" width="16px" /></td>
       <td>10952</td>
       <td><a href="https://www.acmicpc.net/problem/10952">A+B-5</a></td>
@@ -191,7 +191,7 @@ BaekJoon Gold 티어 달성 !
       <td>민애</td>
       <td>슬기</td>
     </tr>
-    <tr style="text-align: center;">
+    <tr align="center">
       <td><img src="https://static.solved.ac/tier_small/s1.svg" alt="Sprout" width="16px" /></td>
       <td>11654</td>
       <td><a href="https://www.acmicpc.net/problem/11654">아스키코드</a></td>
@@ -199,7 +199,7 @@ BaekJoon Gold 티어 달성 !
       <td>민애</td>
       <td>슬기</td>
     </tr>
-    <tr style="text-align: center;">
+    <tr align="center">
       <td><img src="https://static.solved.ac/tier_small/s1.svg" alt="Sprout" width="16px" /></td>
       <td>25083</td>
       <td><a href="https://www.acmicpc.net/problem/25083">새싹</a></td>
@@ -207,7 +207,7 @@ BaekJoon Gold 티어 달성 !
       <td>민애</td>
       <td>슬기</td>
     </tr>
-    <tr style="text-align: center;">
+    <tr align="center">
       <td><img src="https://static.solved.ac/tier_small/s1.svg" alt="Sprout" width="16px" /></td>
       <td>27866</td>
       <td><a href="https://www.acmicpc.net/problem/27866">문자와 문자열</a></td>
@@ -215,7 +215,7 @@ BaekJoon Gold 티어 달성 !
       <td>민애</td>
       <td>슬기</td>
     </tr>
-    <tr style="text-align: center;">
+    <tr align="center">
       <td><img src="https://static.solved.ac/tier_small/s1.svg" alt="Sprout" width="16px" /></td>
       <td>27866</td>
       <td><a href="https://www.acmicpc.net/problem/27866">문자와 문자열</a></td>
@@ -223,7 +223,7 @@ BaekJoon Gold 티어 달성 !
       <td>민애</td>
       <td>슬기</td>
     </tr>
-    <tr style="text-align: center;">
+    <tr align="center">
       <td><img src="https://static.solved.ac/tier_small/2.svg" alt="Bronze IV" width="16px" /></td>
       <td>11720</td>
       <td><a href="https://www.acmicpc.net/problem/11720">숫자의 합</a></td>
@@ -231,7 +231,7 @@ BaekJoon Gold 티어 달성 !
       <td>민애</td>
       <td>슬기</td>
     </tr>
-    <tr style="text-align: center;">
+    <tr align="center">
       <td><img src="https://static.solved.ac/tier_small/3.svg" alt="Bronze III" width="16px" /></td>
       <td>2562</td>
       <td><a href="https://www.acmicpc.net/problem/2562">최댓값</a></td>
@@ -239,7 +239,7 @@ BaekJoon Gold 티어 달성 !
       <td>민애</td>
       <td>슬기</td>
     </tr>
-    <tr style="text-align: center;">
+    <tr align="center">
       <td><img src="https://static.solved.ac/tier_small/3.svg" alt="Bronze III" width="16px" /></td>
       <td>10818</td>
       <td><a href="https://www.acmicpc.net/problem/10818">최소, 최대</a></td>
@@ -247,7 +247,7 @@ BaekJoon Gold 티어 달성 !
       <td>민애</td>
       <td>슬기</td>
     </tr>
-    <tr style="text-align: center;">
+    <tr align="center">
       <td><img src="https://static.solved.ac/tier_small/4.svg" alt="Bronze II" width="16px" /></td>
       <td>2675</td>
       <td><a href="https://www.acmicpc.net/problem/2675">문자열 반복</a></td>
