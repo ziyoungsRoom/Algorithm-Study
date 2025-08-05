@@ -5,5 +5,5 @@ const input = require("fs").readFileSync("/dev/stdin").toString().split(" ");
 const number = parseInt(input[0]);
 
 for (let i = 1; i <= number; i++) {
-  console.log("*").repeat(i);
+  console.log("*".repeat(i));
 }
