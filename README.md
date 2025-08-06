@@ -2,8 +2,8 @@
 
 백준 기반 알고리즘 학습 및 코드리뷰 스터디
 
-기간 : 2025.08.01 -
-<br>
+기간 : 2025.08.01 - <br>
+
 [BaekJoon 바로 가기](https://www.acmicpc.net/step)
 
 ### 👥 Member
@@ -36,7 +36,7 @@
     </tr>
     <tr align="center">
       <td>
-        <a href="https://solved.ac/ziyoungsRoom">
+        <a href="https://solved.ac/ziyoungsroom">
           <img src="http://mazassumnida.wtf/api/mini/generate_badge?boj=ziyoungsRoom" alt="지영 solved.ac 프로필" />
         </a>
       </td>
@@ -46,7 +46,7 @@
         </a>
       </td>
       <td>
-        <a href="https://solved.ac/Sseul_v">
+        <a href="https://solved.ac/sseul_v">
           <img src="http://mazassumnida.wtf/api/mini/generate_badge?boj=Sseul_v" alt="슬기 solved.ac 프로필" />
         </a>
       </td>
@@ -79,7 +79,7 @@
 
 3️⃣ **의미없는 변수 이름 쓰지 않기 !**
 
-4️⃣ **커밋 메세지** `[작업타입]: [commit message]`
+4️⃣ **커밋 메세지 :** `[작업타입]: [commit message]`
 
 | 작업 타입   | 작업내용                                   |
 | ----------- | ------------------------------------------ |
