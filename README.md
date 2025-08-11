@@ -123,7 +123,7 @@ BaekJoon Gold 티어 달성 !
       <td><img src="https://static.solved.ac/tier_small/s1.svg" alt="Sprout" width="16px" /></td>
       <td>1008</td>
       <td><a href="https://www.acmicpc.net/problem/1008">A/B</a></td>
-      <td>지영</td>
+      <td><a href='https://github.com/ziyoungsRoom/Algorithm-Study/commit/3fda225a2693e2c757d2f209de4a66ff58f2d9fa'>✅</a></td>
       <td>민애</td>
       <td>슬기</td>
     </tr>
@@ -131,7 +131,7 @@ BaekJoon Gold 티어 달성 !
       <td><img src="https://static.solved.ac/tier_small/s1.svg" alt="Sprout" width="16px" /></td>
       <td>1330</td>
       <td><a href="https://www.acmicpc.net/problem/1330">두 수 비교하기</a></td>
-      <td>지영</td>
+      <td><a href='https://github.com/ziyoungsRoom/Algorithm-Study/commit/1512314e1b1225d0ba1bee69a24acaedc249814c'>✅</a></td>
       <td>민애</td>
       <td>슬기</td>
     </tr>
@@ -139,7 +139,7 @@ BaekJoon Gold 티어 달성 !
       <td><img src="https://static.solved.ac/tier_small/s1.svg" alt="Sprout" width="16px" /></td>
       <td>2438</td>
       <td><a href="https://www.acmicpc.net/problem/2438">별 찍기-1</a></td>
-      <td>지영</td>
+      <td><a href='https://github.com/ziyoungsRoom/Algorithm-Study/commit/bb329853c9767749f05e335f2208d389715dfa59'>✅</a></td>
       <td>민애</td>
       <td>슬기</td>
     </tr>
@@ -147,7 +147,7 @@ BaekJoon Gold 티어 달성 !
       <td><img src="https://static.solved.ac/tier_small/s1.svg" alt="Sprout" width="16px" /></td>
       <td>2557</td>
       <td><a href="https://www.acmicpc.net/problem/2557">Hello World</a></td>
-      <td>지영</td>
+      <td><a href='https://github.com/ziyoungsRoom/Algorithm-Study/commit/790eeb2bfa8815088f21165af3a1b57afbae4ff9'>✅</a></td>
       <td>민애</td>
       <td>슬기</td>
     </tr>
@@ -155,7 +155,7 @@ BaekJoon Gold 티어 달성 !
       <td><img src="https://static.solved.ac/tier_small/s1.svg" alt="Sprout" width="16px" /></td>
       <td>2739</td>
       <td><a href="https://www.acmicpc.net/problem/2739">구구단</a></td>
-      <td>지영</td>
+      <td><a href='https://github.com/ziyoungsRoom/Algorithm-Study/commit/2b56c83798e3b9fece1c766eaa9ff742803af87e'>✅</a></td>
       <td>민애</td>
       <td>슬기</td>
     </tr>
@@ -163,7 +163,7 @@ BaekJoon Gold 티어 달성 !
       <td><img src="https://static.solved.ac/tier_small/s1.svg" alt="Sprout" width="16px" /></td>
       <td>10869</td>
       <td><a href="https://www.acmicpc.net/problem/10869">사칙연산</a></td>
-      <td>지영</td>
+      <td><a href='https://github.com/ziyoungsRoom/Algorithm-Study/commit/2a2fb43e3f57f7dd68de7c6d2bff7139446fbd86'>✅</a></td>
       <td>민애</td>
       <td>슬기</td>
     </tr>
@@ -171,7 +171,7 @@ BaekJoon Gold 티어 달성 !
       <td><img src="https://static.solved.ac/tier_small/s1.svg" alt="Sprout" width="16px" /></td>
       <td>10950</td>
       <td><a href="https://www.acmicpc.net/problem/10950">A+B-3</a></td>
-      <td>지영</td>
+      <td><a href='https://github.com/ziyoungsRoom/Algorithm-Study/commit/705bc44645200fcd6dfcb5ea0e29dae3fdd8649e'>✅</a></td>
       <td>민애</td>
       <td>슬기</td>
     </tr>
@@ -179,7 +179,7 @@ BaekJoon Gold 티어 달성 !
       <td><img src="https://static.solved.ac/tier_small/s1.svg" alt="Sprout" width="16px" /></td>
       <td>10951</td>
       <td><a href="https://www.acmicpc.net/problem/10951">A+B-4</a></td>
-      <td>지영</td>
+      <td><a href='https://github.com/ziyoungsRoom/Algorithm-Study/commit/4ebf9f052d4de192ded1609a792ff4a9ca250acb'>✅</a></td>
       <td>민애</td>
       <td>슬기</td>
     </tr>
@@ -187,7 +187,7 @@ BaekJoon Gold 티어 달성 !
       <td><img src="https://static.solved.ac/tier_small/s1.svg" alt="Sprout" width="16px" /></td>
       <td>10952</td>
       <td><a href="https://www.acmicpc.net/problem/10952">A+B-5</a></td>
-      <td>지영</td>
+      <td><a href='https://github.com/ziyoungsRoom/Algorithm-Study/commit/56654caf5e82765c0ed42887005dc6d69ec7e7f8'>✅</a></td>
       <td>민애</td>
       <td>슬기</td>
     </tr>
@@ -195,7 +195,7 @@ BaekJoon Gold 티어 달성 !
       <td><img src="https://static.solved.ac/tier_small/s1.svg" alt="Sprout" width="16px" /></td>
       <td>11654</td>
       <td><a href="https://www.acmicpc.net/problem/11654">아스키코드</a></td>
-      <td>지영</td>
+      <td><a href='https://github.com/ziyoungsRoom/Algorithm-Study/commit/b5b1673daff2df69436ecbcd5082a40f2f1434c6'>✅</a></td>
       <td>민애</td>
       <td>슬기</td>
     </tr>
@@ -203,7 +203,7 @@ BaekJoon Gold 티어 달성 !
       <td><img src="https://static.solved.ac/tier_small/s1.svg" alt="Sprout" width="16px" /></td>
       <td>25083</td>
       <td><a href="https://www.acmicpc.net/problem/25083">새싹</a></td>
-      <td>지영</td>
+      <td><a href='https://github.com/ziyoungsRoom/Algorithm-Study/commit/da5ac7d655ba183b95b4c94104496a2858603da0'>✅</a></td>
       <td>민애</td>
       <td>슬기</td>
     </tr>
@@ -211,15 +211,7 @@ BaekJoon Gold 티어 달성 !
       <td><img src="https://static.solved.ac/tier_small/s1.svg" alt="Sprout" width="16px" /></td>
       <td>27866</td>
       <td><a href="https://www.acmicpc.net/problem/27866">문자와 문자열</a></td>
-      <td>지영</td>
-      <td>민애</td>
-      <td>슬기</td>
-    </tr>
-    <tr align="center">
-      <td><img src="https://static.solved.ac/tier_small/s1.svg" alt="Sprout" width="16px" /></td>
-      <td>27866</td>
-      <td><a href="https://www.acmicpc.net/problem/27866">문자와 문자열</a></td>
-      <td>지영</td>
+      <td><a href='https://github.com/ziyoungsRoom/Algorithm-Study/commit/7c335fa0fb936db15f8c172177b01cab5e2a0c4a'>✅</a></td>
       <td>민애</td>
       <td>슬기</td>
     </tr>
@@ -227,7 +219,7 @@ BaekJoon Gold 티어 달성 !
       <td><img src="https://static.solved.ac/tier_small/2.svg" alt="Bronze IV" width="16px" /></td>
       <td>11720</td>
       <td><a href="https://www.acmicpc.net/problem/11720">숫자의 합</a></td>
-      <td>지영</td>
+      <td><a href='https://github.com/ziyoungsRoom/Algorithm-Study/commit/f9bd06af409bc484500902f69e2b0bf103361fa2'>✅</a></td>
       <td>민애</td>
       <td>슬기</td>
     </tr>
@@ -235,7 +227,7 @@ BaekJoon Gold 티어 달성 !
       <td><img src="https://static.solved.ac/tier_small/3.svg" alt="Bronze III" width="16px" /></td>
       <td>2562</td>
       <td><a href="https://www.acmicpc.net/problem/2562">최댓값</a></td>
-      <td>지영</td>
+      <td><a href='https://github.com/ziyoungsRoom/Algorithm-Study/commit/598db555ac70bfca245dc1bc415c3675c1d42248'>✅</a></td>
       <td>민애</td>
       <td>슬기</td>
     </tr>
@@ -243,7 +235,7 @@ BaekJoon Gold 티어 달성 !
       <td><img src="https://static.solved.ac/tier_small/3.svg" alt="Bronze III" width="16px" /></td>
       <td>10818</td>
       <td><a href="https://www.acmicpc.net/problem/10818">최소, 최대</a></td>
-      <td>지영</td>
+      <td><a href='https://github.com/ziyoungsRoom/Algorithm-Study/commit/11007880d5f641278fb1e0735581d8d13dff221e'>✅</a></td>
       <td>민애</td>
       <td>슬기</td>
     </tr>
@@ -251,7 +243,7 @@ BaekJoon Gold 티어 달성 !
       <td><img src="https://static.solved.ac/tier_small/4.svg" alt="Bronze II" width="16px" /></td>
       <td>2675</td>
       <td><a href="https://www.acmicpc.net/problem/2675">문자열 반복</a></td>
-      <td>지영</td>
+      <td><a href='https://github.com/ziyoungsRoom/Algorithm-Study/commit/2d0a56b0b2bc35e8a36ad365059452de295a5c64'>✅</a></td>
       <td>민애</td>
       <td>슬기</td>
     </tr>
