@@ -1,4 +1,4 @@
-// 언어 : Javascript , (성공/실패) : 1/2 , 메모리 : 9432 KB , 시간 : 88 ms
+// 언어 : Javascript , (성공/실패) : 1/4 , 메모리 : 9432 KB , 시간 : 88 ms
 const input = require("fs").readFileSync("/dev/stdin").toString().split("\n");
 
 for (let i = 0; i < input.length; i++) {
