@@ -1,9 +1,9 @@
 // 언어 : Javascript , (성공/실패) : 3/1 , 메모리 : 9332 KB , 시간 : 92 ms
+
 const input = require("fs").readFileSync("/dev/stdin").toString().split(" ");
 
-const A = parseInt(input[0]);
-const B = parseInt(input[1]);
+const number = parseInt(input[0]);
 
-if (A > B) console.log(">");
-if (A < B) console.log("<");
-if (A === B) console.log("==");
+for (let i = 1; i <= number; i++) {
+  console.log("*".repeat(i));
+}
