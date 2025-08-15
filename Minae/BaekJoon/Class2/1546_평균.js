@@ -1,4 +1,4 @@
-// 언어: JavaScript, (성공, 실패): 1/1, 메모리: KB, 시간: ms
+// 언어: JavaScript, (성공, 실패): 1/2, 메모리: 9612 KB, 시간: 92 ms
 const input = require("fs").readFileSync("/dev/stdin").toString().split("\n");
 
 const N = parseInt(input[0]);
