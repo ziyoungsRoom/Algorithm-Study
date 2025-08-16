@@ -197,7 +197,7 @@ BaekJoon Gold 티어 달성 !
     <tr align="center">
       <td><img src="https://static.solved.ac/tier_small/5.svg" alt="Sprout" width="16px" /></td>
       <td>2609</td>
-      <td><a href="https://www.acmicpc.net/problem/10950">최대공약수와 최소공배수</a></td>
+      <td><a href="https://www.acmicpc.net/problem/2609">최대공약수와 최소공배수</a></td>
       <td><a href=''>✅</a></td>
       <td><a href=''>✅</a></td>
       <td><a href=''>✅</a></td>
