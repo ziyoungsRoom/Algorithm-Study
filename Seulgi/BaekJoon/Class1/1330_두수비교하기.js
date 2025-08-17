@@ -1,3 +1,5 @@
+// 언어 : Javascript , (성공/실패) : 1/1 , 메모리 : 9320 KB , 시간 : 88 ms
+
 // 문제 : 두 정수 A와 B가 주어졌을 때, A와 B를 비교하는 프로그램을 작성하시오.
 const [a, b] = require('fs').readFileSync('/dev/stdin').toString().trim().split(' ').map(Number);
 console.log(a > b ? '>' : a < b ? '<' : '==');

@@ -1,3 +1,5 @@
+// 언어 : Javascript , (성공/실패) : 1/0 , 메모리 : 9376 KB , 시간 : 92 ms
+
 // 문제 : 문자열 S를 입력받은 후에, 각 문자를 R번 반복해 새 문자열 P를 만든 후 출력하는 프로그램을 작성하시오.
 const fs = require('fs');
 const input = fs.readFileSync('/dev/stdin').toString().trim().split('\n');
