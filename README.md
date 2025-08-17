@@ -151,7 +151,7 @@ BaekJoon Gold 티어 달성 !
       <td>4153</td>
       <td><a href="https://www.acmicpc.net/problem/4153">직각삼각형</a></td>
       <td><a href=''>✅</a></td>
-      <td><a href=''>✅</a></td>
+      <td><a href='https://github.com/ziyoungsRoom/Algorithm-Study/commit/3aaa4d738508a2cbeed6482d1794de64d4f80db6'>✅</a></td>
       <td><a href=''>✅</a></td>
     </tr>
     <tr align="center">
@@ -159,7 +159,7 @@ BaekJoon Gold 티어 달성 !
       <td>30802</td>
       <td><a href="https://www.acmicpc.net/problem/30802">웰컴 키트</a></td>
       <td><a href=''>✅</a></td>
-      <td><a href=''>✅</a></td>
+      <td><a href='https://github.com/ziyoungsRoom/Algorithm-Study/commit/7ac7b4f85be2f97372b2a088b2fad4c2adc061f5'>✅</a></td>
       <td><a href=''>✅</a></td>
     </tr>
     <tr align="center">
@@ -167,7 +167,7 @@ BaekJoon Gold 티어 달성 !
       <td>1978</td>
       <td><a href="https://www.acmicpc.net/problem/1978">소수 찾기</a></td>
       <td><a href=''>✅</a></td>
-      <td><a href=''>✅</a></td>
+      <td><a href='https://github.com/ziyoungsRoom/Algorithm-Study/commit/cec1155ba808ad27f7af7f6f8f211322f3f35b04'>✅</a></td>
       <td><a href=''>✅</a></td>
     </tr>
     <tr align="center">
@@ -175,7 +175,7 @@ BaekJoon Gold 티어 달성 !
       <td>2798</td>
       <td><a href="https://www.acmicpc.net/problem/2798">블랙잭</a></td>
       <td><a href=''>✅</a></td>
-      <td><a href=''>✅</a></td>
+      <td><a href='https://github.com/ziyoungsRoom/Algorithm-Study/commit/4bfe2d43df4812592c0540239c8c86c989976b37'>✅</a></td>
       <td><a href=''>✅</a></td>
     </tr>
     <tr align="center">
@@ -183,7 +183,7 @@ BaekJoon Gold 티어 달성 !
       <td>1259</td>
       <td><a href="https://www.acmicpc.net/problem/1259">팰린드롬수</a></td>
       <td><a href=''>✅</a></td>
-      <td><a href=''>✅</a></td>
+      <td><a href='https://github.com/ziyoungsRoom/Algorithm-Study/commit/e344a7b046a4f805a36f4e116730f813d1e3e0a6'>✅</a></td>
       <td><a href=''>✅</a></td>
     </tr>
     <tr align="center">
@@ -191,7 +191,7 @@ BaekJoon Gold 티어 달성 !
       <td>1546</td>
       <td><a href="https://www.acmicpc.net/problem/1546">평균</a></td>
       <td><a href=''>✅</a></td>
-      <td><a href=''>✅</a></td>
+      <td><a href='https://github.com/ziyoungsRoom/Algorithm-Study/commit/988f90fefd824a702375a076ece9edf4528b10e6'>✅</a></td>
       <td><a href=''>✅</a></td>
     </tr>
     <tr align="center">
@@ -199,7 +199,7 @@ BaekJoon Gold 티어 달성 !
       <td>2609</td>
       <td><a href="https://www.acmicpc.net/problem/2609">최대공약수와 최소공배수</a></td>
       <td><a href=''>✅</a></td>
-      <td><a href=''>✅</a></td>
+      <td><a href='https://github.com/ziyoungsRoom/Algorithm-Study/commit/29dae5affe69d7a002c59e602a39087333a74d03'>✅</a></td>
       <td><a href=''>✅</a></td>
     </tr>
     <tr align="center">
@@ -207,7 +207,7 @@ BaekJoon Gold 티어 달성 !
       <td>11050</td>
       <td><a href="https://www.acmicpc.net/problem/11050">이항 계수1</a></td>
       <td><a href=''>✅</a></td>
-      <td><a href=''>✅</a></td>
+      <td><a href='https://github.com/ziyoungsRoom/Algorithm-Study/commit/089c48f58bdbc19e761e321caec1f99f50eafdf7'>✅</a></td>
       <td><a href=''>✅</a></td>
     </tr>
     <tr align="center">
@@ -215,7 +215,7 @@ BaekJoon Gold 티어 달성 !
       <td>1181</td>
       <td><a href="https://www.acmicpc.net/problem/1181">단어 정렬</a></td>
       <td><a href=''>✅</a></td>
-      <td><a href=''>✅</a></td>
+      <td><a href='https://github.com/ziyoungsRoom/Algorithm-Study/commit/398fe62d9f321af617aa6286da0db7606bd2a148'>✅</a></td>
       <td><a href=''>✅</a></td>
     </tr>
     <tr align="center">
@@ -223,7 +223,7 @@ BaekJoon Gold 티어 달성 !
       <td>2751</td>
       <td><a href="https://www.acmicpc.net/problem/2751">수 정렬하기2</a></td>
       <td><a href=''>✅</a></td>
-      <td><a href=''>✅</a></td>
+      <td><a href='https://github.com/ziyoungsRoom/Algorithm-Study/commit/bf58fc1f2e9e6657be67fd7eaafbd887f019e2bc'>✅</a></td>
       <td><a href=''>✅</a></td>
     </tr>
   </tbody>
