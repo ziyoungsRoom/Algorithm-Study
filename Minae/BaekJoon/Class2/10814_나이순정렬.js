@@ -1,3 +1,4 @@
+// 언어: JavaScript, (성공/실패): 1/2, 메모리: 61,380 KB, 시간: 3,824 ms
 const input = require("fs")
   .readFileSync("/dev/stdin")
   .toString()
