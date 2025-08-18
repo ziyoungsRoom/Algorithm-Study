@@ -1,3 +1,5 @@
+// 언어 : Javascript , (성공/실패) : 1/2 , 메모리 : 9608 KB , 시간 : 96 ms
+
 // 문제 : 두 자연수 A와 B가 주어진다. 이때, A+B, A-B, A*B, A/B(몫), A%B(나머지)를 출력하는 프로그램을 작성하시오. 
 const fs = require('fs');
 const input = fs.readFileSync('/dev/stdin').toString().trim().split(' ');
