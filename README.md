@@ -133,6 +133,73 @@ BaekJoon Gold 티어 달성 !
 ### 문제 List
 
 <!-- <details> -->
+<summary>Week3</summary>
+<table>
+  <thead>
+    <tr align="center">
+      <th>난이도</th>
+      <th>문제 번호</th>
+      <th>문제 이름</th>
+      <th>지영</th>
+      <th>민애</th>
+      <th>슬기</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr align="center">
+      <td><img src="https://static.solved.ac/tier_small/6.svg" alt="Sprout" width="16px" /></td>
+      <td>10814</td>
+      <td><a href="https://www.acmicpc.net/problem/10814">나이순 정렬</a></td>
+      <td><a href=''>💛</a></td>
+      <td><a href=''>💚</a></td>
+      <td><a href=''>💙</a></td>
+    </tr>
+    <tr align="center">
+      <td><img src="https://static.solved.ac/tier_small/6.svg" alt="Sprout" width="16px" /></td>
+      <td>11650</td>
+      <td><a href="https://www.acmicpc.net/problem/11650">좌표 정렬하기</a></td>
+      <td><a href=''>💛</a></td>
+      <td><a href=''>💚</a></td>
+      <td><a href=''>💙</a></td>
+    </tr>
+    <tr align="center">
+      <td><img src="https://static.solved.ac/tier_small/7.svg" alt="Sprout" width="16px" /></td>
+      <td>1018</td>
+      <td><a href="https://www.acmicpc.net/problem/1018">체스판 다시 칠하기</a></td>
+      <td><a href=''>💛</a></td>
+      <td><a href=''>💚</a></td>
+      <td><a href=''>💙</a></td>
+    </tr>
+    <tr align="center">
+      <td><img src="https://static.solved.ac/tier_small/7.svg" alt="Sprout" width="16px" /></td>
+      <td>1920</td>
+      <td><a href="https://www.acmicpc.net/problem/1920">수 찾기</a></td>
+      <td><a href=''>💛</a></td>
+      <td><a href=''>💚</a></td>
+      <td><a href=''>💙</a></td>
+    </tr>
+    <tr align="center">
+      <td><img src="https://static.solved.ac/tier_small/7.svg" alt="Sprout" width="16px" /></td>
+      <td>2164</td>
+      <td><a href="https://www.acmicpc.net/problem/2164">카드2</a></td>
+      <td><a href=''>💛</a></td>
+      <td><a href=''>💚</a></td>
+      <td><a href=''>💙</a></td>
+    </tr>
+    <tr align="center">
+      <td><img src="https://static.solved.ac/tier_small/7.svg" alt="Sprout" width="16px" /></td>
+      <td>9012</td>
+      <td><a href="https://www.acmicpc.net/problem/9012">괄호</a></td>
+      <td><a href=''>💛</a></td>
+      <td><a href=''>💚</a></td>
+      <td><a href=''>💙</a></td>
+    </tr>
+  </tbody>
+</table>
+<!-- </details> -->
+
+
+<details>
 <summary>Week2</summary>
 <table>
   <thead>
@@ -228,7 +295,7 @@ BaekJoon Gold 티어 달성 !
     </tr>
   </tbody>
 </table>
-<!-- </details> -->
+</details>
 
 <details>
 <summary>Week1</summary>
