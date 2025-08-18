@@ -198,7 +198,6 @@ BaekJoon Gold 티어 달성 !
 </table>
 <!-- </details> -->
 
-
 <details>
 <summary>Week2</summary>
 <table>
@@ -217,7 +216,7 @@ BaekJoon Gold 티어 달성 !
       <td><img src="https://static.solved.ac/tier_small/3.svg" alt="Sprout" width="16px" /></td>
       <td>4153</td>
       <td><a href="https://www.acmicpc.net/problem/4153">직각삼각형</a></td>
-      <td><a href=''>💛</a></td>
+      <td><a href='https://github.com/ziyoungsRoom/Algorithm-Study/commit/44e9979f1d7c120a88a0327ec8110a66b87333b8'>💛</a></td>
       <td><a href='https://github.com/ziyoungsRoom/Algorithm-Study/commit/3aaa4d738508a2cbeed6482d1794de64d4f80db6'>💚</a></td>
       <td><a href='https://github.com/ziyoungsRoom/Algorithm-Study/commit/0299f71013f79c653d3dd668eb5c3bdc6ff344ca'>💙</a></td>
     </tr>
@@ -225,7 +224,7 @@ BaekJoon Gold 티어 달성 !
       <td><img src="https://static.solved.ac/tier_small/3.svg" alt="Sprout" width="16px" /></td>
       <td>30802</td>
       <td><a href="https://www.acmicpc.net/problem/30802">웰컴 키트</a></td>
-      <td><a href=''>💛</a></td>
+      <td><a href='https://github.com/ziyoungsRoom/Algorithm-Study/commit/2676cfb474539c28caaceab23e1b1b9df41c820e'>💛</a></td>
       <td><a href='https://github.com/ziyoungsRoom/Algorithm-Study/commit/7ac7b4f85be2f97372b2a088b2fad4c2adc061f5'>💚</a></td>
       <td><a href='https://github.com/ziyoungsRoom/Algorithm-Study/commit/f1eeead326d7afe9e2dd43e7500321d041e8fdf1'>💙</a></td>
     </tr>
@@ -233,7 +232,7 @@ BaekJoon Gold 티어 달성 !
       <td><img src="https://static.solved.ac/tier_small/4.svg" alt="Sprout" width="16px" /></td>
       <td>1978</td>
       <td><a href="https://www.acmicpc.net/problem/1978">소수 찾기</a></td>
-      <td><a href=''>💛</a></td>
+      <td><a href='https://github.com/ziyoungsRoom/Algorithm-Study/commit/51c54e97fb88fefd9f889d93375a63cf7fd33295'>💛</a></td>
       <td><a href='https://github.com/ziyoungsRoom/Algorithm-Study/commit/cec1155ba808ad27f7af7f6f8f211322f3f35b04'>💚</a></td>
       <td><a href='https://github.com/ziyoungsRoom/Algorithm-Study/commit/e0f5b52016368dabd26a8e103c901e20f552c523'>💙</a></td>
     </tr>
@@ -241,7 +240,7 @@ BaekJoon Gold 티어 달성 !
       <td><img src="https://static.solved.ac/tier_small/4.svg" alt="Sprout" width="16px" /></td>
       <td>2798</td>
       <td><a href="https://www.acmicpc.net/problem/2798">블랙잭</a></td>
-      <td><a href=''>💛</a></td>
+      <td><a href='https://github.com/ziyoungsRoom/Algorithm-Study/commit/b5ef60b4baceb7c77295d8052ccb8c39e5392837'>💛</a></td>
       <td><a href='https://github.com/ziyoungsRoom/Algorithm-Study/commit/4bfe2d43df4812592c0540239c8c86c989976b37'>💚</a></td>
       <td><a href='https://github.com/ziyoungsRoom/Algorithm-Study/commit/11e2b42fb7cf3b26b8677c8869e97421eb851265'>💙</a></td>
     </tr>
@@ -249,7 +248,7 @@ BaekJoon Gold 티어 달성 !
       <td><img src="https://static.solved.ac/tier_small/5.svg" alt="Sprout" width="16px" /></td>
       <td>1259</td>
       <td><a href="https://www.acmicpc.net/problem/1259">팰린드롬수</a></td>
-      <td><a href=''>💛</a></td>
+      <td><a href='https://github.com/ziyoungsRoom/Algorithm-Study/commit/455a62e849dfa0722bf1cdd007ec26886ed3e728'>💛</a></td>
       <td><a href='https://github.com/ziyoungsRoom/Algorithm-Study/commit/e344a7b046a4f805a36f4e116730f813d1e3e0a6'>💚</a></td>
       <td><a href='https://github.com/ziyoungsRoom/Algorithm-Study/commit/7950ad13a29ffad533ddcc7cf59652e0a925d403'>💙</a></td>
     </tr>
@@ -257,7 +256,7 @@ BaekJoon Gold 티어 달성 !
       <td><img src="https://static.solved.ac/tier_small/5.svg" alt="Sprout" width="16px" /></td>
       <td>1546</td>
       <td><a href="https://www.acmicpc.net/problem/1546">평균</a></td>
-      <td><a href=''>💛</a></td>
+      <td><a href='https://github.com/ziyoungsRoom/Algorithm-Study/commit/efa180a98d458c62e0d74aa72c7513d12acf9429'>💛</a></td>
       <td><a href='https://github.com/ziyoungsRoom/Algorithm-Study/commit/988f90fefd824a702375a076ece9edf4528b10e6'>💚</a></td>
       <td><a href='https://github.com/ziyoungsRoom/Algorithm-Study/commit/d1989ee21a21a28bd1d145950bb42e684b7e84ea'>💙</a></td>
     </tr>
@@ -265,7 +264,7 @@ BaekJoon Gold 티어 달성 !
       <td><img src="https://static.solved.ac/tier_small/5.svg" alt="Sprout" width="16px" /></td>
       <td>2609</td>
       <td><a href="https://www.acmicpc.net/problem/2609">최대공약수와 최소공배수</a></td>
-      <td><a href=''>💛</a></td>
+      <td><a href='https://github.com/ziyoungsRoom/Algorithm-Study/commit/8ebcf8f0372f281a3f8c254ea1afb9489339b33c'>💛</a></td>
       <td><a href='https://github.com/ziyoungsRoom/Algorithm-Study/commit/29dae5affe69d7a002c59e602a39087333a74d03'>💚</a></td>
       <td><a href='https://github.com/ziyoungsRoom/Algorithm-Study/commit/36389a50037bc7199623321d4cf444e030988401'>💙</a></td>
     </tr>
@@ -273,7 +272,7 @@ BaekJoon Gold 티어 달성 !
       <td><img src="https://static.solved.ac/tier_small/5.svg" alt="Sprout" width="16px" /></td>
       <td>11050</td>
       <td><a href="https://www.acmicpc.net/problem/11050">이항 계수1</a></td>
-      <td><a href=''>💛</a></td>
+      <td><a href='https://github.com/ziyoungsRoom/Algorithm-Study/commit/78f8bf2bc87889113e4e48fe4b3ed1cf1d3c6ee0'>💛</a></td>
       <td><a href='https://github.com/ziyoungsRoom/Algorithm-Study/commit/089c48f58bdbc19e761e321caec1f99f50eafdf7'>💚</a></td>
       <td><a href='https://github.com/ziyoungsRoom/Algorithm-Study/commit/ad119827d33310c489756e34f910ae9300f660f9'>💙</a></td>
     </tr>
@@ -281,7 +280,7 @@ BaekJoon Gold 티어 달성 !
       <td><img src="https://static.solved.ac/tier_small/6.svg" alt="Sprout" width="16px" /></td>
       <td>1181</td>
       <td><a href="https://www.acmicpc.net/problem/1181">단어 정렬</a></td>
-      <td><a href=''>💛</a></td>
+      <td><a href='https://github.com/ziyoungsRoom/Algorithm-Study/commit/79fc1a15764beae6bf6de26f5556799115fd48b0'>💛</a></td>
       <td><a href='https://github.com/ziyoungsRoom/Algorithm-Study/commit/398fe62d9f321af617aa6286da0db7606bd2a148'>💚</a></td>
       <td><a href='https://github.com/ziyoungsRoom/Algorithm-Study/commit/dbb56dc02da8386fa5333bbe93acf0a5d5915a4d'>💙</a></td>
     </tr>
@@ -289,7 +288,7 @@ BaekJoon Gold 티어 달성 !
       <td><img src="https://static.solved.ac/tier_small/6.svg" alt="Sprout" width="16px" /></td>
       <td>2751</td>
       <td><a href="https://www.acmicpc.net/problem/2751">수 정렬하기2</a></td>
-      <td><a href=''>💛</a></td>
+      <td><a href='https://github.com/ziyoungsRoom/Algorithm-Study/commit/71d79223f460fff8de3a6a9ef84b0d662be55eb6'>💛</a></td>
       <td><a href='https://github.com/ziyoungsRoom/Algorithm-Study/commit/bf58fc1f2e9e6657be67fd7eaafbd887f019e2bc'>💚</a></td>
       <td><a href='https://github.com/ziyoungsRoom/Algorithm-Study/commit/b9cb715730b232f99c0c41da2d679058b2d2b9db'>💙</a></td>
     </tr>
