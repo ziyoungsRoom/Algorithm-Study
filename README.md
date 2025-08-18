@@ -174,7 +174,7 @@ BaekJoon Gold 티어 달성 !
       <td><img src="https://static.solved.ac/tier_small/4.svg" alt="Sprout" width="16px" /></td>
       <td>2798</td>
       <td><a href="https://www.acmicpc.net/problem/2798">블랙잭</a></td>
-      <td><a href=''>✅</a></td>
+      <td><a href=''>💛</a></td>
       <td><a href='https://github.com/ziyoungsRoom/Algorithm-Study/commit/4bfe2d43df4812592c0540239c8c86c989976b37'>💚</a></td>
       <td><a href='https://github.com/ziyoungsRoom/Algorithm-Study/commit/11e2b42fb7cf3b26b8677c8869e97421eb851265'>💙</a></td>
     </tr>
