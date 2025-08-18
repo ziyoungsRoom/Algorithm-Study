@@ -1,3 +1,5 @@
+// 언어 : Javascript , (성공/실패) : 1/1 , 메모리 : 9580 KB , 시간 : 96 ms
+
 // 문제 : N개의 숫자가 공백 없이 쓰여있다. 이 숫자를 모두 합해서 출력하는 프로그램을 작성하시오.
 const fs = require('fs');
 const input = fs.readFileSync('/dev/stdin').toString().trim().split('\n');
