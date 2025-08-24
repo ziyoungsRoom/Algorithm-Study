@@ -152,7 +152,7 @@ BaekJoon Gold 티어 달성 !
       <td><a href="https://www.acmicpc.net/problem/10814">나이순 정렬</a></td>
       <td><a href=''>💛</a></td>
       <td><a href=''>💚</a></td>
-      <td><a href=''>💙</a></td>
+      <td><a href='https://github.com/ziyoungsRoom/Algorithm-Study/commit/95ac55447b79379283ff705a54abdf63e6ffd137'>💙</a></td>
     </tr>
     <tr align="center">
       <td><img src="https://static.solved.ac/tier_small/6.svg" alt="Sprout" width="16px" /></td>
@@ -160,7 +160,7 @@ BaekJoon Gold 티어 달성 !
       <td><a href="https://www.acmicpc.net/problem/11650">좌표 정렬하기</a></td>
       <td><a href=''>💛</a></td>
       <td><a href=''>💚</a></td>
-      <td><a href=''>💙</a></td>
+      <td><a href='https://github.com/ziyoungsRoom/Algorithm-Study/commit/07a458fc321a544dd7e02da0780d02a7ebf223b9'>💙</a></td>
     </tr>
     <tr align="center">
       <td><img src="https://static.solved.ac/tier_small/7.svg" alt="Sprout" width="16px" /></td>
@@ -168,7 +168,7 @@ BaekJoon Gold 티어 달성 !
       <td><a href="https://www.acmicpc.net/problem/1018">체스판 다시 칠하기</a></td>
       <td><a href=''>💛</a></td>
       <td><a href=''>💚</a></td>
-      <td><a href=''>💙</a></td>
+      <td><a href='https://github.com/ziyoungsRoom/Algorithm-Study/commit/a5d742464a6dec92b8e0643603e7cdf9a0dbedd4'>💙</a></td>
     </tr>
     <tr align="center">
       <td><img src="https://static.solved.ac/tier_small/7.svg" alt="Sprout" width="16px" /></td>
@@ -176,7 +176,7 @@ BaekJoon Gold 티어 달성 !
       <td><a href="https://www.acmicpc.net/problem/1920">수 찾기</a></td>
       <td><a href=''>💛</a></td>
       <td><a href=''>💚</a></td>
-      <td><a href=''>💙</a></td>
+      <td><a href='https://github.com/ziyoungsRoom/Algorithm-Study/commit/cd6135496224538bb075a3e17db084f80b76f428'>💙</a></td>
     </tr>
     <tr align="center">
       <td><img src="https://static.solved.ac/tier_small/7.svg" alt="Sprout" width="16px" /></td>
@@ -184,7 +184,7 @@ BaekJoon Gold 티어 달성 !
       <td><a href="https://www.acmicpc.net/problem/2164">카드2</a></td>
       <td><a href=''>💛</a></td>
       <td><a href=''>💚</a></td>
-      <td><a href=''>💙</a></td>
+      <td><a href='https://github.com/ziyoungsRoom/Algorithm-Study/commit/6a6af7b7d8a0e9464c77e950a261f7e052286fcf'>💙</a></td>
     </tr>
     <tr align="center">
       <td><img src="https://static.solved.ac/tier_small/7.svg" alt="Sprout" width="16px" /></td>
@@ -192,7 +192,7 @@ BaekJoon Gold 티어 달성 !
       <td><a href="https://www.acmicpc.net/problem/9012">괄호</a></td>
       <td><a href=''>💛</a></td>
       <td><a href=''>💚</a></td>
-      <td><a href=''>💙</a></td>
+      <td><a href='https://github.com/ziyoungsRoom/Algorithm-Study/commit/6569fced48964836cf36283026c0032807dc92ee'>💙</a></td>
     </tr>
   </tbody>
 </table>
