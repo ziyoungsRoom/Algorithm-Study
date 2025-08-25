@@ -117,22 +117,22 @@
 ### 📁 **폴더 구조**
 
 ```
-📦 Algorithm-Study/
-├── 📂 Jiyoung/BaekJoon/
-│   └── 📂 단계/
+📦 Algorithm-Study
+├── 📂 Jiyoung/BaekJoon
+│   └── 📂 단계
 │       └── 📄 [문제번호]_[문제이름].js
-├── 📂 Minae/BaekJoon/
-│   └── 📂 단계/
+├── 📂 Minae/BaekJoon
+│   └── 📂 단계
 │       └── 📄 [문제번호]_[문제이름].js
-└── 📂 Seulgi/BaekJoon/
-    └── 📂 단계/
+└── 📂 Seulgi/BaekJoon
+    └── 📂 단계
         └── 📄 [문제번호]_[문제이름].js
 ```
 
 ### 💬 **PR 규칙**
-- **제목**: `[ BaekJoon ] YYYY.MM.DD. - weekN ` Ex. [ BaekJoon ] 2025.08.01. - week1
-- **브랜치**: `feature/이름-weekN` Ex. feature/jiyoung-week1
-- **라벨**: `이름 / 언어` Ex. Jiyoung / Javascript
+- **제목**: `[ BaekJoon ] YYYY.MM.DD. - weekN` ➡︎ Ex. `[ BaekJoon ] 2025.08.01. - week1`
+- **브랜치**: `feature/이름-weekN` ➡︎ Ex. `feature/jiyoung-week1`
+- **라벨**: `이름 / 언어` ➡︎ Ex. `Jiyoung / Javascript`
 
 ### 🔖 **커밋 메세지** 
 #### `[작업타입]: [commit message]`
