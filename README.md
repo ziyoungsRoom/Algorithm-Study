@@ -1,5 +1,7 @@
 # 🚀 Algorithm Study
 
+<br>
+
 <div align="center">
 
 ## Solve It!
@@ -17,9 +19,13 @@
 
 </div>
 
----
+<br>
 
 ## 👥 Member
+
+<div align="center">
+
+<br>
 
 <table>
   <thead>
@@ -68,9 +74,13 @@
 </table>
 <br>
 
----
-# 📋 스터디 규칙
+</div>
 
+
+## 📋 스터디 규칙
+
+<br>
+  
 <table>
   <tr>
     <td><b>🔥 주간 목표</b></td>
@@ -98,7 +108,9 @@
   </tr>
 </table>
 
----
+</div>
+
+<br>
 
 ## 🛠️ Convention
 
@@ -134,7 +146,7 @@
 | ♻️ refactor | 코드 리팩토링, 로직 변경 없이 구조 개선    |
 | 🔨 chore    | 폴더 구조 수정, 파일 이동, 기타 설정 등    |
 
----
+<br>
 
 ### ⚠️ **주의 사항** 
 1️⃣ **코드 맨 윗줄에 해당 형식의 주석 추가**
@@ -147,7 +159,7 @@
 
 3️⃣ **의미없는 변수 이름 쓰지 않기 !**
 
----
+<br>
 
 ## 💬 코드리뷰 샘플
 
@@ -164,13 +176,15 @@
 
 - ~~ 메서드를 사용하면 좀 더 간결한 코드가 될 것 같아요!!
 
----
+<br>
 
 ## 📈 주차별 진행 현황
 
-## 🔥 **Week 4** ![진행중](https://img.shields.io/badge/Status-진행중-yellow?style=flat-square&logo=gear)
-<details>
+## **Week 4** ![진행중](https://img.shields.io/badge/Status-진행중-yellow?style=flat-square&logo=gear)
+<!-- <details> --> 
 <summary><b>📋 문제 목록 보기</b></summary>
+  
+<br>
 
 | 난이도 | 문제 링크 | 지영 🟡 | 민애 🟢 | 슬기 🔵 |
 |:------:|------|:-----:|:-----:|:-----:|
@@ -181,13 +195,13 @@
 | <img src="https://static.solved.ac/tier_small/6.svg" width="16px" /> | [11723 집합](https://www.acmicpc.net/problem/11723) | [💛](#) | [💚](#) | [💙](#) |
 | <img src="https://static.solved.ac/tier_small/7.svg" width="16px" /> | [1764 듣보잡](https://www.acmicpc.net/problem/1764) | [💛](#) | [💚](#) | [💙](#) |
 
-</details>
-
----
+<!-- </details> -->
 
 ## **Week 3** ![완료](https://img.shields.io/badge/Status-완료-brightgreen?style=flat-square&logo=check)
 <details>
 <summary><b>📋 문제 목록 보기</b></summary>
+
+<br>
 
 | 난이도 | 문제 링크 | 지영 🟡 | 민애 🟢 | 슬기 🔵 |
 |:------:|------|:-----:|:-----:|:-----:|
@@ -200,10 +214,11 @@
 
 </details>
 
----
-
 ## **Week 2** ![코드리뷰시작](https://img.shields.io/badge/Special-코드리뷰시작-orange?style=flat-square&logo=message-square)
 <details>
+
+<br>
+  
 <summary><b>📋 문제 목록 보기</b></summary>
 
 | 난이도 | 문제 링크 | 지영 🟡 | 민애 🟢 | 슬기 🔵 |
@@ -221,10 +236,11 @@
 
 </details>
 
----
-
 ## **Week 1** ![워밍업](https://img.shields.io/badge/Special-워밍업-blue?style=flat-square&logo=thermometer)
 <details>
+
+<br>
+
 <summary><b>📋 문제 목록 보기</b></summary>
 
 | 난이도 | 문제 링크 | 지영 🟡 | 민애 🟢 | 슬기 🔵 |
@@ -248,16 +264,18 @@
 
 </details>
 
----
+<br>
 
 ## 🎉 마지막으로
 <div align="center">
-
+  
+<br>
+  
 **🌟 "혼자 가면 빠르지만, 함께 가면 멀리 간다" 🌟**
 
 **복잡한 문제도 함께라면 Solve It! 💪**
 
----
+<br>
 
 ⭐ **이 스터디가 도움이 되셨다면 Star를 눌러주세요!** ⭐
 
