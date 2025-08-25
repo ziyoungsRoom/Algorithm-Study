@@ -1,19 +1,32 @@
-## 알고리즘 Study
+# 🚀 Algorithm Study
 
-백준 기반 알고리즘 학습 및 코드리뷰 스터디
+<div align="center">
+
+## Solve It!
+
+**백준 문제를 '소화'하고, '러닝'하며, '빌드'하는 3인의 코딩 모험!**
+
+매주 문제를 풀고, 서로의 코드를 리뷰하며 성장하는 **알고리즘 스터디**입니다.
+
+복잡한 문제도 함께라면 **Solve It!** 할 수 있습니다!
 
 기간 : 2025.08.01 - <br>
 
-[BaekJoon 바로 가기](https://www.acmicpc.net/step)
 
-### 👥 Member
+[🎯 BaekJoon 바로가기](https://www.acmicpc.net/step) | [📊 노션 대시보드](https://solve-it.notion.site/solve-it-study)
+
+</div>
+
+---
+
+## 👥 Member
 
 <table>
   <thead>
     <tr align="center">
-      <th>지영</th>
-      <th>민애</th>
-      <th>슬기</th>
+      <th>💛 지영</th>
+      <th>💚 민애</th>
+      <th>💙 슬기</th>
     </tr>
   </thead>
   <tbody>
@@ -55,33 +68,62 @@
 </table>
 <br>
 
-### 💬 Pull-Request 제출 방법
+---
+# 📋 스터디 규칙
 
-제목 : [ BaekJoon ] PR 제출일자 - Ex. 2025.08.01.
+<table>
+  <tr>
+    <td><b>🔥 주간 목표</b></td>
+    <td>매주 6문제 이상 해결</td>
+  </tr>
+  <tr>
+    <td><b>💻 커밋 규칙</b></td>
+    <td>1문제당 1커밋, 1주일 1PR</td>
+  </tr>
+  <tr>
+    <td><b>👥 코드 리뷰</b></td>
+    <td>주간 3문제 이상 리뷰 작성</td>
+  </tr>
+  <tr>
+    <td><b>🎯 모임</b></td>
+    <td>격주 Zep 화상 모임</td>
+  </tr>
+  <tr>
+    <td><b>👩‍💻 진행 방식</b></td>
+    <td>각 주 담당자가 README 문제 추가</td>
+  </tr>
+  <tr>
+    <td><b>🏆 최종 목표</b></td>
+    <td>BaekJoon Gold 티어 달성</td>
+  </tr>
+</table>
 
-라벨 : 이름 / 언어 - Ex. Jiyoung / Javascript
-<br>
+---
 
-### 📋 Convention
+## 🛠️ Convention
 
-**폴더 이름 :** `[백준 단계]_[문제 이름]`
+### 📁 **폴더 구조**
 
-**파일 이름 :** `[문제 번호]_[문제 이름]`
-
-**브랜치 이름 :** `feature/[이름]-week1`
-<br>
-
-1️⃣ **코드 맨 윗줄에 해당 형식의 주석 추가**
-
-```js
-// 언어 : Javascript , (성공/실패) : 1/4 , 메모리 : 45008 KB , 시간 : 208 ms
+```
+📦 Algorithm-Study/
+├── 📂 Jiyoung/BaekJoon/
+│   └── 📂 단계/
+│       └── 📄 [문제번호]_[문제이름].js
+├── 📂 Minae/BaekJoon/
+│   └── 📂 단계/
+│       └── 📄 [문제번호]_[문제이름].js
+└── 📂 Seulgi/BaekJoon/
+    └── 📂 단계/
+        └── 📄 [문제번호]_[문제이름].js
 ```
 
-2️⃣ **적용 이유와 처리 방식을 명시하여 주석 추가**
+### 💬 **PR 규칙**
+- **제목**: `[ BaekJoon ] YYYY.MM.DD. - weekN ` Ex. [ BaekJoon ] 2025.08.01. - week1
+- **브랜치**: `feature/이름-weekN` Ex. feature/jiyoung-week1
+- **라벨**: `이름 / 언어` Ex. Jiyoung / Javascript
 
-3️⃣ **의미없는 변수 이름 쓰지 않기 !**
-
-4️⃣ **커밋 메세지 :** `[작업타입]: [commit message]`
+### 🔖 **커밋 메세지** 
+#### `[작업타입]: [commit message]`
 
 | 작업 타입   | 작업내용                                   |
 | ----------- | ------------------------------------------ |
@@ -92,15 +134,26 @@
 | ♻️ refactor | 코드 리팩토링, 로직 변경 없이 구조 개선    |
 | 🔨 chore    | 폴더 구조 수정, 파일 이동, 기타 설정 등    |
 
-<br>
+---
 
-5️⃣ **코드 리뷰 예시:**
+### ⚠️ **주의 사항** 
+1️⃣ **코드 맨 윗줄에 해당 형식의 주석 추가**
 
-### 👩‍💻 지영 → 민애 (1330 두 수 비교하기)
+```js
+// 언어 : Javascript , (성공/실패) : 1/4 , 메모리 : 45008 KB , 시간 : 208 ms
+```
 
-**📂 리뷰 대상**: [민애/1330\_두수비교하기.js](https://www.acmicpc.net/problem/1330)
+2️⃣ **적용 이유와 처리 방식을 명시하여 주석 추가**
 
-**📅 리뷰 날짜**: 2025.08.02
+3️⃣ **의미없는 변수 이름 쓰지 않기 !**
+
+---
+
+## 💬 코드리뷰 샘플
+
+### 👩‍💻 지영 → 민애
+
+**📅 리뷰 날짜**: 2025.08.01
 
 👍 잘한 점:
 
@@ -111,335 +164,101 @@
 
 - ~~ 메서드를 사용하면 좀 더 간결한 코드가 될 것 같아요!!
 
-<br>
+---
 
-### 📌 Rules !
+## 📈 주차별 진행 현황
 
-- 1주일 1PR 약속 💪🏻
-- 1문제 당 1커밋 약속
-- 2주일 1번 zep 모임
-- 각 주 담당자가 README 문제 추가
-- 해당 주차 코드 리뷰 2문제 이상
-- 1주일 내 각자 5문제 풀이
-  <br>
-
-### ⚽ Goals~!
-
-BaekJoon 알고리즘 단계별 학습해나가기 !
-
-BaekJoon Gold 티어 달성 !
-<br>
-
-### 문제 List
-
-<!-- <details> -->
-<summary>Week3</summary>
-<table>
-  <thead>
-    <tr align="center">
-      <th>난이도</th>
-      <th>문제 번호</th>
-      <th>문제 이름</th>
-      <th>지영</th>
-      <th>민애</th>
-      <th>슬기</th>
-    </tr>
-  </thead>
-  <tbody>
-    <tr align="center">
-      <td><img src="https://static.solved.ac/tier_small/6.svg" alt="Sprout" width="16px" /></td>
-      <td>10814</td>
-      <td><a href="https://www.acmicpc.net/problem/10814">나이순 정렬</a></td>
-
-      <td><a href='https://github.com/ziyoungsRoom/Algorithm-Study/commit/64312cf2cdba36c4e37db7458915f82b56633a87'>💛</a></td>
-      <td><a href='https://github.com/ziyoungsRoom/Algorithm-Study/commit/0de790286cace19f7fdadbbf5bf5ebce2b1a7cf3'>💚</a></td>
-      <td><a href=''>💙</a></td>
-    </tr>
-    <tr align="center">
-      <td><img src="https://static.solved.ac/tier_small/6.svg" alt="Sprout" width="16px" /></td>
-      <td>11650</td>
-      <td><a href="https://www.acmicpc.net/problem/11650">좌표 정렬하기</a></td>
-
-      <td><a href='https://github.com/ziyoungsRoom/Algorithm-Study/commit/7435e5a841652ce82c80af91ef4424473ae685ae'>💛</a></td>
-      <td><a href='https://github.com/ziyoungsRoom/Algorithm-Study/commit/ef1e8d14246d244f6c9fe31f545c71c1e48f453d'>💚</a></td>
-      <td><a href=''>💙</a></td>
-    </tr>
-    <tr align="center">
-      <td><img src="https://static.solved.ac/tier_small/7.svg" alt="Sprout" width="16px" /></td>
-      <td>1018</td>
-      <td><a href="https://www.acmicpc.net/problem/1018">체스판 다시 칠하기</a></td>
-      <td><a href='https://github.com/ziyoungsRoom/Algorithm-Study/commit/c752aa07c8bab4b8facbd00f2183ae55984e3c56'>💛</a></td>
-      <td><a href='https://github.com/ziyoungsRoom/Algorithm-Study/commit/3b53e0c73b00ffbd97da6199ff281accb8830043'>💚</a></td>
-      <td><a href=''>💙</a></td>
-    </tr>
-    <tr align="center">
-      <td><img src="https://static.solved.ac/tier_small/7.svg" alt="Sprout" width="16px" /></td>
-      <td>1920</td>
-      <td><a href="https://www.acmicpc.net/problem/1920">수 찾기</a></td>
-      <td><a href='https://github.com/ziyoungsRoom/Algorithm-Study/commit/12d69859588abc0327d1b82b7714084fefab65c8'>💛</a></td>
-      <td><a href='https://github.com/ziyoungsRoom/Algorithm-Study/commit/2d0f0009eed2306e35a9f71fc698115483177ca2'>💚</a></td>
-      <td><a href=''>💙</a></td>
-    </tr>
-    <tr align="center">
-      <td><img src="https://static.solved.ac/tier_small/7.svg" alt="Sprout" width="16px" /></td>
-      <td>2164</td>
-      <td><a href="https://www.acmicpc.net/problem/2164">카드2</a></td>
-      <td><a href='https://github.com/ziyoungsRoom/Algorithm-Study/commit/35bcca5e9017e4c070ed832d3492a51845030e08'>💛</a></td>
-      <td><a href='https://github.com/ziyoungsRoom/Algorithm-Study/commit/63c0de9c73d6bbfb59a5614d293593c337f06993'>💚</a></td>
-      <td><a href=''>💙</a></td>
-    </tr>
-    <tr align="center">
-      <td><img src="https://static.solved.ac/tier_small/7.svg" alt="Sprout" width="16px" /></td>
-      <td>9012</td>
-      <td><a href="https://www.acmicpc.net/problem/9012">괄호</a></td>
-      <td><a href='https://github.com/ziyoungsRoom/Algorithm-Study/commit/8c7eec09352cc1083f3459f8a09dea749ef935a8'>💛</a></td>
-      <td><a href='https://github.com/ziyoungsRoom/Algorithm-Study/commit/3906009286b90943e95d9fbcfcadaa0d73d847ac'>💚</a></td>
-      <td><a href=''>💙</a></td>
-    </tr>
-  </tbody>
-</table>
-<!-- </details> -->
-
+## 🔥 **Week 4** ![진행중](https://img.shields.io/badge/Status-진행중-yellow?style=flat-square&logo=gear)
 <details>
-<summary>Week2</summary>
-<table>
-  <thead>
-    <tr align="center">
-      <th>난이도</th>
-      <th>문제 번호</th>
-      <th>문제 이름</th>
-      <th>지영</th>
-      <th>민애</th>
-      <th>슬기</th>
-    </tr>
-  </thead>
-  <tbody>
-    <tr align="center">
-      <td><img src="https://static.solved.ac/tier_small/3.svg" alt="Sprout" width="16px" /></td>
-      <td>4153</td>
-      <td><a href="https://www.acmicpc.net/problem/4153">직각삼각형</a></td>
-      <td><a href='https://github.com/ziyoungsRoom/Algorithm-Study/commit/44e9979f1d7c120a88a0327ec8110a66b87333b8'>💛</a></td>
-      <td><a href='https://github.com/ziyoungsRoom/Algorithm-Study/commit/3aaa4d738508a2cbeed6482d1794de64d4f80db6'>💚</a></td>
-      <td><a href='https://github.com/ziyoungsRoom/Algorithm-Study/commit/0299f71013f79c653d3dd668eb5c3bdc6ff344ca'>💙</a></td>
-    </tr>
-    <tr align="center">
-      <td><img src="https://static.solved.ac/tier_small/3.svg" alt="Sprout" width="16px" /></td>
-      <td>30802</td>
-      <td><a href="https://www.acmicpc.net/problem/30802">웰컴 키트</a></td>
-      <td><a href='https://github.com/ziyoungsRoom/Algorithm-Study/commit/2676cfb474539c28caaceab23e1b1b9df41c820e'>💛</a></td>
-      <td><a href='https://github.com/ziyoungsRoom/Algorithm-Study/commit/7ac7b4f85be2f97372b2a088b2fad4c2adc061f5'>💚</a></td>
-      <td><a href='https://github.com/ziyoungsRoom/Algorithm-Study/commit/f1eeead326d7afe9e2dd43e7500321d041e8fdf1'>💙</a></td>
-    </tr>
-    <tr align="center">
-      <td><img src="https://static.solved.ac/tier_small/4.svg" alt="Sprout" width="16px" /></td>
-      <td>1978</td>
-      <td><a href="https://www.acmicpc.net/problem/1978">소수 찾기</a></td>
-      <td><a href='https://github.com/ziyoungsRoom/Algorithm-Study/commit/51c54e97fb88fefd9f889d93375a63cf7fd33295'>💛</a></td>
-      <td><a href='https://github.com/ziyoungsRoom/Algorithm-Study/commit/cec1155ba808ad27f7af7f6f8f211322f3f35b04'>💚</a></td>
-      <td><a href='https://github.com/ziyoungsRoom/Algorithm-Study/commit/e0f5b52016368dabd26a8e103c901e20f552c523'>💙</a></td>
-    </tr>
-    <tr align="center">
-      <td><img src="https://static.solved.ac/tier_small/4.svg" alt="Sprout" width="16px" /></td>
-      <td>2798</td>
-      <td><a href="https://www.acmicpc.net/problem/2798">블랙잭</a></td>
-      <td><a href='https://github.com/ziyoungsRoom/Algorithm-Study/commit/b5ef60b4baceb7c77295d8052ccb8c39e5392837'>💛</a></td>
-      <td><a href='https://github.com/ziyoungsRoom/Algorithm-Study/commit/4bfe2d43df4812592c0540239c8c86c989976b37'>💚</a></td>
-      <td><a href='https://github.com/ziyoungsRoom/Algorithm-Study/commit/11e2b42fb7cf3b26b8677c8869e97421eb851265'>💙</a></td>
-    </tr>
-    <tr align="center">
-      <td><img src="https://static.solved.ac/tier_small/5.svg" alt="Sprout" width="16px" /></td>
-      <td>1259</td>
-      <td><a href="https://www.acmicpc.net/problem/1259">팰린드롬수</a></td>
-      <td><a href='https://github.com/ziyoungsRoom/Algorithm-Study/commit/455a62e849dfa0722bf1cdd007ec26886ed3e728'>💛</a></td>
-      <td><a href='https://github.com/ziyoungsRoom/Algorithm-Study/commit/e344a7b046a4f805a36f4e116730f813d1e3e0a6'>💚</a></td>
-      <td><a href='https://github.com/ziyoungsRoom/Algorithm-Study/commit/7950ad13a29ffad533ddcc7cf59652e0a925d403'>💙</a></td>
-    </tr>
-    <tr align="center">
-      <td><img src="https://static.solved.ac/tier_small/5.svg" alt="Sprout" width="16px" /></td>
-      <td>1546</td>
-      <td><a href="https://www.acmicpc.net/problem/1546">평균</a></td>
-      <td><a href='https://github.com/ziyoungsRoom/Algorithm-Study/commit/efa180a98d458c62e0d74aa72c7513d12acf9429'>💛</a></td>
-      <td><a href='https://github.com/ziyoungsRoom/Algorithm-Study/commit/988f90fefd824a702375a076ece9edf4528b10e6'>💚</a></td>
-      <td><a href='https://github.com/ziyoungsRoom/Algorithm-Study/commit/d1989ee21a21a28bd1d145950bb42e684b7e84ea'>💙</a></td>
-    </tr>
-    <tr align="center">
-      <td><img src="https://static.solved.ac/tier_small/5.svg" alt="Sprout" width="16px" /></td>
-      <td>2609</td>
-      <td><a href="https://www.acmicpc.net/problem/2609">최대공약수와 최소공배수</a></td>
-      <td><a href='https://github.com/ziyoungsRoom/Algorithm-Study/commit/8ebcf8f0372f281a3f8c254ea1afb9489339b33c'>💛</a></td>
-      <td><a href='https://github.com/ziyoungsRoom/Algorithm-Study/commit/29dae5affe69d7a002c59e602a39087333a74d03'>💚</a></td>
-      <td><a href='https://github.com/ziyoungsRoom/Algorithm-Study/commit/36389a50037bc7199623321d4cf444e030988401'>💙</a></td>
-    </tr>
-    <tr align="center">
-      <td><img src="https://static.solved.ac/tier_small/5.svg" alt="Sprout" width="16px" /></td>
-      <td>11050</td>
-      <td><a href="https://www.acmicpc.net/problem/11050">이항 계수1</a></td>
-      <td><a href='https://github.com/ziyoungsRoom/Algorithm-Study/commit/78f8bf2bc87889113e4e48fe4b3ed1cf1d3c6ee0'>💛</a></td>
-      <td><a href='https://github.com/ziyoungsRoom/Algorithm-Study/commit/089c48f58bdbc19e761e321caec1f99f50eafdf7'>💚</a></td>
-      <td><a href='https://github.com/ziyoungsRoom/Algorithm-Study/commit/ad119827d33310c489756e34f910ae9300f660f9'>💙</a></td>
-    </tr>
-    <tr align="center">
-      <td><img src="https://static.solved.ac/tier_small/6.svg" alt="Sprout" width="16px" /></td>
-      <td>1181</td>
-      <td><a href="https://www.acmicpc.net/problem/1181">단어 정렬</a></td>
-      <td><a href='https://github.com/ziyoungsRoom/Algorithm-Study/commit/79fc1a15764beae6bf6de26f5556799115fd48b0'>💛</a></td>
-      <td><a href='https://github.com/ziyoungsRoom/Algorithm-Study/commit/398fe62d9f321af617aa6286da0db7606bd2a148'>💚</a></td>
-      <td><a href='https://github.com/ziyoungsRoom/Algorithm-Study/commit/dbb56dc02da8386fa5333bbe93acf0a5d5915a4d'>💙</a></td>
-    </tr>
-    <tr align="center">
-      <td><img src="https://static.solved.ac/tier_small/6.svg" alt="Sprout" width="16px" /></td>
-      <td>2751</td>
-      <td><a href="https://www.acmicpc.net/problem/2751">수 정렬하기2</a></td>
-      <td><a href='https://github.com/ziyoungsRoom/Algorithm-Study/commit/71d79223f460fff8de3a6a9ef84b0d662be55eb6'>💛</a></td>
-      <td><a href='https://github.com/ziyoungsRoom/Algorithm-Study/commit/bf58fc1f2e9e6657be67fd7eaafbd887f019e2bc'>💚</a></td>
-      <td><a href='https://github.com/ziyoungsRoom/Algorithm-Study/commit/b9cb715730b232f99c0c41da2d679058b2d2b9db'>💙</a></td>
-    </tr>
-  </tbody>
-</table>
+<summary><b>📋 문제 목록 보기</b></summary>
+
+| 난이도 | 문제 링크 | 지영 🟡 | 민애 🟢 | 슬기 🔵 |
+|:------:|------|:-----:|:-----:|:-----:|
+| <img src="https://static.solved.ac/tier_small/7.svg" width="16px" /> | [10816 숫자 카드 2](https://www.acmicpc.net/problem/10816) | [💛](#) | [💚](#) | [💙](#) |
+| <img src="https://static.solved.ac/tier_small/7.svg" width="16px" /> | [10828 스택](https://www.acmicpc.net/problem/10828) | [💛](#) | [💚](#) | [💙](#) |
+| <img src="https://static.solved.ac/tier_small/7.svg" width="16px" /> | [10845 큐](https://www.acmicpc.net/problem/10845) | [💛](#) | [💚](#) | [💙](#) |
+| <img src="https://static.solved.ac/tier_small/7.svg" width="16px" /> | [11866 요세푸스 문제 0](https://www.acmicpc.net/problem/11866) | [💛](#) | [💚](#) | [💙](#) |
+| <img src="https://static.solved.ac/tier_small/6.svg" width="16px" /> | [11723 집합](https://www.acmicpc.net/problem/11723) | [💛](#) | [💚](#) | [💙](#) |
+| <img src="https://static.solved.ac/tier_small/7.svg" width="16px" /> | [1764 듣보잡](https://www.acmicpc.net/problem/1764) | [💛](#) | [💚](#) | [💙](#) |
+
 </details>
 
+---
+
+## **Week 3** ![완료](https://img.shields.io/badge/Status-완료-brightgreen?style=flat-square&logo=check)
 <details>
-<summary>Week1</summary>
-<table>
-  <thead>
-    <tr align="center">
-      <th>난이도</th>
-      <th>문제 번호</th>
-      <th>문제 이름</th>
-      <th>지영</th>
-      <th>민애</th>
-      <th>슬기</th>
-    </tr>
-  </thead>
-  <tbody>
-    <tr align="center">
-      <td><img src="https://static.solved.ac/tier_small/s1.svg" alt="Sprout" width="16px" /></td>
-      <td>1008</td>
-      <td><a href="https://www.acmicpc.net/problem/1008">A/B</a></td>
-      <td><a href='https://github.com/ziyoungsRoom/Algorithm-Study/commit/3fda225a2693e2c757d2f209de4a66ff58f2d9fa'>💛</a></td>
-      <td><a href='https://github.com/ziyoungsRoom/Algorithm-Study/commit/9b555fa73c224edc4c463ee59eb700937adcd3a1'>💚</a></td>
-      <td><a href='https://github.com/ziyoungsRoom/Algorithm-Study/commit/90182ed818f09cceda6e8bd028ed34923eade8c1'>💙</a></td>
-    </tr>
-    <tr align="center">
-      <td><img src="https://static.solved.ac/tier_small/s1.svg" alt="Sprout" width="16px" /></td>
-      <td>1330</td>
-      <td><a href="https://www.acmicpc.net/problem/1330">두 수 비교하기</a></td>
-      <td><a href='https://github.com/ziyoungsRoom/Algorithm-Study/commit/1512314e1b1225d0ba1bee69a24acaedc249814c'>💛</a></td>
-      <td><a href='https://github.com/ziyoungsRoom/Algorithm-Study/commit/17a8d64b6e257765f97af88de2780f0988d3b450'>💚</a></td>
-      <td><a href='https://github.com/ziyoungsRoom/Algorithm-Study/commit/be8669413e38853b37483c856daff218330cb874'>💙</a></td>
-    </tr>
-    <tr align="center">
-      <td><img src="https://static.solved.ac/tier_small/s1.svg" alt="Sprout" width="16px" /></td>
-      <td>2438</td>
-      <td><a href="https://www.acmicpc.net/problem/2438">별 찍기-1</a></td>
-      <td><a href='https://github.com/ziyoungsRoom/Algorithm-Study/commit/bb329853c9767749f05e335f2208d389715dfa59'>💛</a></td>
-      <td><a href='https://github.com/ziyoungsRoom/Algorithm-Study/commit/fca011212654436c26fcafbf601a401da177ff57'>💚</a></td>
-      <td><a href='https://github.com/ziyoungsRoom/Algorithm-Study/commit/4404fc29e0d64a56c52091b6714a4cc7e9efe7a1'>💙</a></td>
-    </tr>
-    <tr align="center">
-      <td><img src="https://static.solved.ac/tier_small/s1.svg" alt="Sprout" width="16px" /></td>
-      <td>2557</td>
-      <td><a href="https://www.acmicpc.net/problem/2557">Hello World</a></td>
-      <td><a href='https://github.com/ziyoungsRoom/Algorithm-Study/commit/790eeb2bfa8815088f21165af3a1b57afbae4ff9'>💛</a></td>
-      <td><a href='https://github.com/ziyoungsRoom/Algorithm-Study/commit/c95f5b7a55bb538e1ef72bf72a778b719e0e54ac'>💚</a></td>
-      <td><a href='https://github.com/ziyoungsRoom/Algorithm-Study/commit/1cd9a6deb87cbacbe4754f6cc29dd5c3b3106c28'>💙</a></td>
-    </tr>
-    <tr align="center">
-      <td><img src="https://static.solved.ac/tier_small/s1.svg" alt="Sprout" width="16px" /></td>
-      <td>2739</td>
-      <td><a href="https://www.acmicpc.net/problem/2739">구구단</a></td>
-      <td><a href='https://github.com/ziyoungsRoom/Algorithm-Study/commit/2b56c83798e3b9fece1c766eaa9ff742803af87e'>💛</a></td>
-      <td><a href='https://github.com/ziyoungsRoom/Algorithm-Study/commit/3d22b99043518a2cafe349ee7c15d6d0dc70e219'>💚</a></td>
-      <td><a href='https://github.com/ziyoungsRoom/Algorithm-Study/commit/70f247e1bf4524310579c1fbd537f964914782b7'>💙</a></td>
-    </tr>
-    <tr align="center">
-      <td><img src="https://static.solved.ac/tier_small/s1.svg" alt="Sprout" width="16px" /></td>
-      <td>10869</td>
-      <td><a href="https://www.acmicpc.net/problem/10869">사칙연산</a></td>
-      <td><a href='https://github.com/ziyoungsRoom/Algorithm-Study/commit/2a2fb43e3f57f7dd68de7c6d2bff7139446fbd86'>💛</a></td>
-      <td><a href='https://github.com/ziyoungsRoom/Algorithm-Study/commit/5c9fd46f54e4cf67e8c35485433311aa8f2289d2'>💚</a></td>
-      <td><a href='https://github.com/ziyoungsRoom/Algorithm-Study/commit/a2413ee1b2e692f335569bae501fb48fcdc53dc6'>💙</a></td>
-    </tr>
-    <tr align="center">
-      <td><img src="https://static.solved.ac/tier_small/s1.svg" alt="Sprout" width="16px" /></td>
-      <td>10950</td>
-      <td><a href="https://www.acmicpc.net/problem/10950">A+B-3</a></td>
-      <td><a href='https://github.com/ziyoungsRoom/Algorithm-Study/commit/705bc44645200fcd6dfcb5ea0e29dae3fdd8649e'>💛</a></td>
-      <td><a href='https://github.com/ziyoungsRoom/Algorithm-Study/commit/4357b1a010937095850e0ee6c589ba886f8882e6'>💚</a></td>
-      <td><a href='https://github.com/ziyoungsRoom/Algorithm-Study/commit/c4b0bb378d9792e5de914d66575bded5e8f33a50'>💙</a></td>
-    </tr>
-    <tr align="center">
-      <td><img src="https://static.solved.ac/tier_small/s1.svg" alt="Sprout" width="16px" /></td>
-      <td>10951</td>
-      <td><a href="https://www.acmicpc.net/problem/10951">A+B-4</a></td>
-      <td><a href='https://github.com/ziyoungsRoom/Algorithm-Study/commit/4ebf9f052d4de192ded1609a792ff4a9ca250acb'>💛</a></td>
-      <td><a href='https://github.com/ziyoungsRoom/Algorithm-Study/commit/3f700c67692ccd8e74171075931bd31d86e14000'>💚</a></td>
-      <td><a href='https://github.com/ziyoungsRoom/Algorithm-Study/commit/334a73c0b8d4a92696cdcd0e55f5ebd8f308bd20'>💙</a></td>
-    </tr>
-    <tr align="center">
-      <td><img src="https://static.solved.ac/tier_small/s1.svg" alt="Sprout" width="16px" /></td>
-      <td>10952</td>
-      <td><a href="https://www.acmicpc.net/problem/10952">A+B-5</a></td>
-      <td><a href='https://github.com/ziyoungsRoom/Algorithm-Study/commit/56654caf5e82765c0ed42887005dc6d69ec7e7f8'>💛</a></td>
-      <td><a href='https://github.com/ziyoungsRoom/Algorithm-Study/commit/0a64e922506c6bb22f42f38362ffa09ffd9e8a2e'>💚</a></td>
-      <td><a href='https://github.com/ziyoungsRoom/Algorithm-Study/commit/f34507eadf093fe8e856db51b7f6284b427059fd'>💙</a></td>
-    </tr>
-    <tr align="center">
-      <td><img src="https://static.solved.ac/tier_small/s1.svg" alt="Sprout" width="16px" /></td>
-      <td>11654</td>
-      <td><a href="https://www.acmicpc.net/problem/11654">아스키코드</a></td>
-      <td><a href='https://github.com/ziyoungsRoom/Algorithm-Study/commit/b5b1673daff2df69436ecbcd5082a40f2f1434c6'>💛</a></td>
-      <td><a href='https://github.com/ziyoungsRoom/Algorithm-Study/commit/4f73f1655028a54a116c1ca66c69e25ef26ffd05'>💚</a></td>
-      <td><a href='https://github.com/ziyoungsRoom/Algorithm-Study/commit/fc58c36e74dd8f04ce35a0dae459944d82ffa820'>💙</a></td>
-    </tr>
-    <tr align="center">
-      <td><img src="https://static.solved.ac/tier_small/s1.svg" alt="Sprout" width="16px" /></td>
-      <td>25083</td>
-      <td><a href="https://www.acmicpc.net/problem/25083">새싹</a></td>
-      <td><a href='https://github.com/ziyoungsRoom/Algorithm-Study/commit/da5ac7d655ba183b95b4c94104496a2858603da0'>💛</a></td>
-      <td><a href='https://github.com/ziyoungsRoom/Algorithm-Study/commit/fa72743b403dedd1e2b32408b806da45963accd5'>💚</a></td>
-      <td><a href='https://github.com/ziyoungsRoom/Algorithm-Study/commit/5b940fdfbb1f8438fe35b5a2c4e933f5d43a30d9'>💙</a></td>
-    </tr>
-    <tr align="center">
-      <td><img src="https://static.solved.ac/tier_small/s1.svg" alt="Sprout" width="16px" /></td>
-      <td>27866</td>
-      <td><a href="https://www.acmicpc.net/problem/27866">문자와 문자열</a></td>
-      <td><a href='https://github.com/ziyoungsRoom/Algorithm-Study/commit/7c335fa0fb936db15f8c172177b01cab5e2a0c4a'>💛</a></td>
-      <td><a href='https://github.com/ziyoungsRoom/Algorithm-Study/commit/a2475de1799572037929a3e1a20a8fed03124553'>💚</a></td>
-      <td><a href='https://github.com/ziyoungsRoom/Algorithm-Study/commit/9128af81de6f3f1f4a542386505178c5b8fc31ff'>💙</a></td>
-    </tr>
-    <tr align="center">
-      <td><img src="https://static.solved.ac/tier_small/2.svg" alt="Bronze IV" width="16px" /></td>
-      <td>11720</td>
-      <td><a href="https://www.acmicpc.net/problem/11720">숫자의 합</a></td>
-      <td><a href='https://github.com/ziyoungsRoom/Algorithm-Study/commit/f9bd06af409bc484500902f69e2b0bf103361fa2'>💛</a></td>
-      <td><a href='https://github.com/ziyoungsRoom/Algorithm-Study/commit/a009924cdd2f6f4692a896df1cb361e476fb2f74'>💚</a></td>
-      <td><a href='https://github.com/ziyoungsRoom/Algorithm-Study/commit/3058547ef90e64077434921c6aa6052ea91b5b3b'>💙</a></td>
-    </tr>
-    <tr align="center">
-      <td><img src="https://static.solved.ac/tier_small/3.svg" alt="Bronze III" width="16px" /></td>
-      <td>2562</td>
-      <td><a href="https://www.acmicpc.net/problem/2562">최댓값</a></td>
-      <td><a href='https://github.com/ziyoungsRoom/Algorithm-Study/commit/598db555ac70bfca245dc1bc415c3675c1d42248'>💛</a></td>
-      <td><a href='https://github.com/ziyoungsRoom/Algorithm-Study/commit/c0cc316d413e0e932715fdaf9f75c816d99febf8'>💚</a></td>
-      <td><a href='https://github.com/ziyoungsRoom/Algorithm-Study/commit/4940e64c8dff0470dcbdbfd4b8ba8b4640da7f52'>💙</a></td>
-    </tr>
-    <tr align="center">
-      <td><img src="https://static.solved.ac/tier_small/3.svg" alt="Bronze III" width="16px" /></td>
-      <td>10818</td>
-      <td><a href="https://www.acmicpc.net/problem/10818">최소, 최대</a></td>
-      <td><a href='https://github.com/ziyoungsRoom/Algorithm-Study/commit/11007880d5f641278fb1e0735581d8d13dff221e'>💛</a></td>
-      <td><a href='https://github.com/ziyoungsRoom/Algorithm-Study/commit/f9c3504af4208f85d2df2f19aad301e74ae55412'>💚</a></td>
-      <td><a href='https://github.com/ziyoungsRoom/Algorithm-Study/commit/412a26d4b20076d84e73c41bdb9ecd797672ef08'>💙</a></td>
-    </tr>
-    <tr align="center">
-      <td><img src="https://static.solved.ac/tier_small/4.svg" alt="Bronze II" width="16px" /></td>
-      <td>2675</td>
-      <td><a href="https://www.acmicpc.net/problem/2675">문자열 반복</a></td>
-      <td><a href='https://github.com/ziyoungsRoom/Algorithm-Study/commit/2d0a56b0b2bc35e8a36ad365059452de295a5c64'>💛</a></td>
-      <td><a href='https://github.com/ziyoungsRoom/Algorithm-Study/commit/19528aa6056bc8104b68968ecd0c4a7359ebb7c4'>💚</a></td>
-      <td><a href='https://github.com/ziyoungsRoom/Algorithm-Study/commit/3338cc0077c42891a4a579115674aa4e59273116'>💙</a></td>
-    </tr>
-  </tbody>
-</table>
+<summary><b>📋 문제 목록 보기</b></summary>
+
+| 난이도 | 문제 링크 | 지영 🟡 | 민애 🟢 | 슬기 🔵 |
+|:------:|------|:-----:|:-----:|:-----:|
+| <img src="https://static.solved.ac/tier_small/6.svg" width="16px" /> | [10814 나이순 정렬](https://www.acmicpc.net/problem/10814) | [💛](https://github.com/ziyoungsRoom/Algorithm-Study/commit/64312cf2cdba36c4e37db7458915f82b56633a87) | [💚](https://github.com/ziyoungsRoom/Algorithm-Study/commit/0de790286cace19f7fdadbbf5bf5ebce2b1a7cf3) | [💙](https://github.com/ziyoungsRoom/Algorithm-Study/commit/95ac55447b79379283ff705a54abdf63e6ffd137) |
+| <img src="https://static.solved.ac/tier_small/6.svg" width="16px" /> | [11650 좌표 정렬하기](https://www.acmicpc.net/problem/11650) | [💛](https://github.com/ziyoungsRoom/Algorithm-Study/commit/7435e5a841652ce82c80af91ef4424473ae685ae) | [💚](https://github.com/ziyoungsRoom/Algorithm-Study/commit/ef1e8d14246d244f6c9fe31f545c71c1e48f453d) | [💙](https://github.com/ziyoungsRoom/Algorithm-Study/commit/07a458fc321a544dd7e02da0780d02a7ebf223b9) |
+| <img src="https://static.solved.ac/tier_small/7.svg" width="16px" /> | [💬 1018 체스판 다시 칠하기](https://www.acmicpc.net/problem/1018) | [💛](https://github.com/ziyoungsRoom/Algorithm-Study/commit/c752aa07c8bab4b8facbd00f2183ae55984e3c56) | [💚](https://github.com/ziyoungsRoom/Algorithm-Study/commit/3b53e0c73b00ffbd97da6199ff281accb8830043) | [💙](https://github.com/ziyoungsRoom/Algorithm-Study/commit/a5d742464a6dec92b8e0643603e7cdf9a0dbedd4) |
+| <img src="https://static.solved.ac/tier_small/7.svg" width="16px" /> | [💬 1920 수 찾기](https://www.acmicpc.net/problem/1920) | [💛](https://github.com/ziyoungsRoom/Algorithm-Study/commit/12d69859588abc0327d1b82b7714084fefab65c8) | [💚](https://github.com/ziyoungsRoom/Algorithm-Study/commit/2d0f0009eed2306e35a9f71fc698115483177ca2) | [💙](https://github.com/ziyoungsRoom/Algorithm-Study/commit/cd6135496224538bb075a3e17db084f80b76f428) |
+| <img src="https://static.solved.ac/tier_small/7.svg" width="16px" /> | [2164 카드2](https://www.acmicpc.net/problem/2164) | [💛](https://github.com/ziyoungsRoom/Algorithm-Study/commit/35bcca5e9017e4c070ed832d3492a51845030e08) | [💚](https://github.com/ziyoungsRoom/Algorithm-Study/commit/63c0de9c73d6bbfb59a5614d293593c337f06993) | [💙](https://github.com/ziyoungsRoom/Algorithm-Study/commit/6a6af7b7d8a0e9464c77e950a261f7e052286fcf) |
+| <img src="https://static.solved.ac/tier_small/7.svg" width="16px" /> | [💬 9012 괄호](https://www.acmicpc.net/problem/9012) | [💛](https://github.com/ziyoungsRoom/Algorithm-Study/commit/8c7eec09352cc1083f3459f8a09dea749ef935a8) | [💚](https://github.com/ziyoungsRoom/Algorithm-Study/commit/3906009286b90943e95d9fbcfcadaa0d73d847ac) | [💙](https://github.com/ziyoungsRoom/Algorithm-Study/commit/6569fced48964836cf36283026c0032807dc92ee) |
+
 </details>
+
+---
+
+## **Week 2** ![코드리뷰시작](https://img.shields.io/badge/Special-코드리뷰시작-orange?style=flat-square&logo=message-square)
+<details>
+<summary><b>📋 문제 목록 보기</b></summary>
+
+| 난이도 | 문제 링크 | 지영 🟡 | 민애 🟢 | 슬기 🔵 |
+|:------:|------|:-----:|:-----:|:-----:|
+| <img src="https://static.solved.ac/tier_small/3.svg" width="16px" /> | [4153 직각삼각형](https://www.acmicpc.net/problem/4153) | [💛](https://github.com/ziyoungsRoom/Algorithm-Study/commit/44e9979f1d7c120a88a0327ec8110a66b87333b8) | [💚](https://github.com/ziyoungsRoom/Algorithm-Study/commit/3aaa4d738508a2cbeed6482d1794de64d4f80db6) | [💙](https://github.com/ziyoungsRoom/Algorithm-Study/commit/0299f71013f79c653d3dd668eb5c3bdc6ff344ca) |
+| <img src="https://static.solved.ac/tier_small/3.svg" width="16px" /> | [💬 30802 웰컴 키트](https://www.acmicpc.net/problem/30802) | [💛](https://github.com/ziyoungsRoom/Algorithm-Study/commit/2676cfb474539c28caaceab23e1b1b9df41c820e) | [💚](https://github.com/ziyoungsRoom/Algorithm-Study/commit/7ac7b4f85be2f97372b2a088b2fad4c2adc061f5) | [💙](https://github.com/ziyoungsRoom/Algorithm-Study/commit/f1eeead326d7afe9e2dd43e7500321d041e8fdf1) |
+| <img src="https://static.solved.ac/tier_small/4.svg" width="16px" /> | [1978 소수 찾기](https://www.acmicpc.net/problem/1978) | [💛](https://github.com/ziyoungsRoom/Algorithm-Study/commit/51c54e97fb88fefd9f889d93375a63cf7fd33295) | [💚](https://github.com/ziyoungsRoom/Algorithm-Study/commit/cec1155ba808ad27f7af7f6f8f211322f3f35b04) | [💙](https://github.com/ziyoungsRoom/Algorithm-Study/commit/e0f5b52016368dabd26a8e103c901e20f552c523) |
+| <img src="https://static.solved.ac/tier_small/4.svg" width="16px" /> | [2798 블랙잭](https://www.acmicpc.net/problem/2798) | [💛](https://github.com/ziyoungsRoom/Algorithm-Study/commit/b5ef60b4baceb7c77295d8052ccb8c39e5392837) | [💚](https://github.com/ziyoungsRoom/Algorithm-Study/commit/4bfe2d43df4812592c0540239c8c86c989976b37) | [💙](https://github.com/ziyoungsRoom/Algorithm-Study/commit/11e2b42fb7cf3b26b8677c8869e97421eb851265) |
+| <img src="https://static.solved.ac/tier_small/5.svg" width="16px" /> | [1259 팰린드롬수](https://www.acmicpc.net/problem/1259) | [💛](https://github.com/ziyoungsRoom/Algorithm-Study/commit/455a62e849dfa0722bf1cdd007ec26886ed3e728) | [💚](https://github.com/ziyoungsRoom/Algorithm-Study/commit/e344a7b046a4f805a36f4e116730f813d1e3e0a6) | [💙](https://github.com/ziyoungsRoom/Algorithm-Study/commit/7950ad13a29ffad533ddcc7cf59652e0a925d403) |
+| <img src="https://static.solved.ac/tier_small/5.svg" width="16px" /> | [1546 평균](https://www.acmicpc.net/problem/1546) | [💛](https://github.com/ziyoungsRoom/Algorithm-Study/commit/efa180a98d458c62e0d74aa72c7513d12acf9429) | [💚](https://github.com/ziyoungsRoom/Algorithm-Study/commit/988f90fefd824a702375a076ece9edf4528b10e6) | [💙](https://github.com/ziyoungsRoom/Algorithm-Study/commit/d1989ee21a21a28bd1d145950bb42e684b7e84ea) |
+| <img src="https://static.solved.ac/tier_small/5.svg" width="16px" /> | [💬 2609 최대공약수와 최소공배수](https://www.acmicpc.net/problem/2609) | [💛](https://github.com/ziyoungsRoom/Algorithm-Study/commit/8ebcf8f0372f281a3f8c254ea1afb9489339b33c) | [💚](https://github.com/ziyoungsRoom/Algorithm-Study/commit/29dae5affe69d7a002c59e602a39087333a74d03) | [💙](https://github.com/ziyoungsRoom/Algorithm-Study/commit/36389a50037bc7199623321d4cf444e030988401) |
+| <img src="https://static.solved.ac/tier_small/5.svg" width="16px" /> | [11050 이항 계수1](https://www.acmicpc.net/problem/11050) | [💛](https://github.com/ziyoungsRoom/Algorithm-Study/commit/78f8bf2bc87889113e4e48fe4b3ed1cf1d3c6ee0) | [💚](https://github.com/ziyoungsRoom/Algorithm-Study/commit/089c48f58bdbc19e761e321caec1f99f50eafdf7) | [💙](https://github.com/ziyoungsRoom/Algorithm-Study/commit/ad119827d33310c489756e34f910ae9300f660f9) |
+| <img src="https://static.solved.ac/tier_small/6.svg" width="16px" /> | [💬 1181 단어 정렬](https://www.acmicpc.net/problem/1181) | [💛](https://github.com/ziyoungsRoom/Algorithm-Study/commit/79fc1a15764beae6bf6de26f5556799115fd48b0) | [💚](https://github.com/ziyoungsRoom/Algorithm-Study/commit/398fe62d9f321af617aa6286da0db7606bd2a148) | [💙](https://github.com/ziyoungsRoom/Algorithm-Study/commit/dbb56dc02da8386fa5333bbe93acf0a5d5915a4d) |
+| <img src="https://static.solved.ac/tier_small/6.svg" width="16px" /> | [2751 수 정렬하기2](https://www.acmicpc.net/problem/2751) | [💛](https://github.com/ziyoungsRoom/Algorithm-Study/commit/71d79223f460fff8de3a6a9ef84b0d662be55eb6) | [💚](https://github.com/ziyoungsRoom/Algorithm-Study/commit/bf58fc1f2e9e6657be67fd7eaafbd887f019e2bc) | [💙](https://github.com/ziyoungsRoom/Algorithm-Study/commit/b9cb715730b232f99c0c41da2d679058b2d2b9db) |
+
+</details>
+
+---
+
+## **Week 1** ![워밍업](https://img.shields.io/badge/Special-워밍업-blue?style=flat-square&logo=thermometer)
+<details>
+<summary><b>📋 문제 목록 보기</b></summary>
+
+| 난이도 | 문제 링크 | 지영 🟡 | 민애 🟢 | 슬기 🔵 |
+|:------:|------|:-----:|:-----:|:-----:|
+| <img src="https://static.solved.ac/tier_small/s1.svg" width="16px" /> | [1008 A/B](https://www.acmicpc.net/problem/1008) | [💛](https://github.com/ziyoungsRoom/Algorithm-Study/commit/3fda225a2693e2c757d2f209de4a66ff58f2d9fa) | [💚](https://github.com/ziyoungsRoom/Algorithm-Study/commit/9b555fa73c224edc4c463ee59eb700937adcd3a1) | [💙](https://github.com/ziyoungsRoom/Algorithm-Study/commit/90182ed818f09cceda6e8bd028ed34923eade8c1) |
+| <img src="https://static.solved.ac/tier_small/s1.svg" width="16px" /> | [1330 두 수 비교하기](https://www.acmicpc.net/problem/1330) | [💛](https://github.com/ziyoungsRoom/Algorithm-Study/commit/1512314e1b1225d0ba1bee69a24acaedc249814c) | [💚](https://github.com/ziyoungsRoom/Algorithm-Study/commit/17a8d64b6e257765f97af88de2780f0988d3b450) | [💙](https://github.com/ziyoungsRoom/Algorithm-Study/commit/be8669413e38853b37483c856daff218330cb874) |
+| <img src="https://static.solved.ac/tier_small/s1.svg" width="16px" /> | [2438 별 찍기-1](https://www.acmicpc.net/problem/2438) | [💛](https://github.com/ziyoungsRoom/Algorithm-Study/commit/bb329853c9767749f05e335f2208d389715dfa59) | [💚](https://github.com/ziyoungsRoom/Algorithm-Study/commit/fca011212654436c26fcafbf601a401da177ff57) | [💙](https://github.com/ziyoungsRoom/Algorithm-Study/commit/4404fc29e0d64a56c52091b6714a4cc7e9efe7a1) |
+| <img src="https://static.solved.ac/tier_small/s1.svg" width="16px" /> | [2557 Hello World](https://www.acmicpc.net/problem/2557) | [💛](https://github.com/ziyoungsRoom/Algorithm-Study/commit/790eeb2bfa8815088f21165af3a1b57afbae4ff9) | [💚](https://github.com/ziyoungsRoom/Algorithm-Study/commit/c95f5b7a55bb538e1ef72bf72a778b719e0e54ac) | [💙](https://github.com/ziyoungsRoom/Algorithm-Study/commit/1cd9a6deb87cbacbe4754f6cc29dd5c3b3106c28) |
+| <img src="https://static.solved.ac/tier_small/s1.svg" width="16px" /> | [2739 구구단](https://www.acmicpc.net/problem/2739) | [💛](https://github.com/ziyoungsRoom/Algorithm-Study/commit/2b56c83798e3b9fece1c766eaa9ff742803af87e) | [💚](https://github.com/ziyoungsRoom/Algorithm-Study/commit/3d22b99043518a2cafe349ee7c15d6d0dc70e219) | [💙](https://github.com/ziyoungsRoom/Algorithm-Study/commit/70f247e1bf4524310579c1fbd537f964914782b7) |
+| <img src="https://static.solved.ac/tier_small/s1.svg" width="16px" /> | [10869 사칙연산](https://www.acmicpc.net/problem/10869) | [💛](https://github.com/ziyoungsRoom/Algorithm-Study/commit/2a2fb43e3f57f7dd68de7c6d2bff7139446fbd86) | [💚](https://github.com/ziyoungsRoom/Algorithm-Study/commit/5c9fd46f54e4cf67e8c35485433311aa8f2289d2) | [💙](https://github.com/ziyoungsRoom/Algorithm-Study/commit/a2413ee1b2e692f335569bae501fb48fcdc53dc6) |
+| <img src="https://static.solved.ac/tier_small/s1.svg" width="16px" /> | [10950 A+B-3](https://www.acmicpc.net/problem/10950) | [💛](https://github.com/ziyoungsRoom/Algorithm-Study/commit/705bc44645200fcd6dfcb5ea0e29dae3fdd8649e) | [💚](https://github.com/ziyoungsRoom/Algorithm-Study/commit/4357b1a010937095850e0ee6c589ba886f8882e6) | [💙](https://github.com/ziyoungsRoom/Algorithm-Study/commit/c4b0bb378d9792e5de914d66575bded5e8f33a50) |
+| <img src="https://static.solved.ac/tier_small/s1.svg" width="16px" /> | [10951 A+B-4](https://www.acmicpc.net/problem/10951) | [💛](https://github.com/ziyoungsRoom/Algorithm-Study/commit/4ebf9f052d4de192ded1609a792ff4a9ca250acb) | [💚](https://github.com/ziyoungsRoom/Algorithm-Study/commit/3f700c67692ccd8e74171075931bd31d86e14000) | [💙](https://github.com/ziyoungsRoom/Algorithm-Study/commit/334a73c0b8d4a92696cdcd0e55f5ebd8f308bd20) |
+| <img src="https://static.solved.ac/tier_small/s1.svg" width="16px" /> | [10952 A+B-5](https://www.acmicpc.net/problem/10952) | [💛](https://github.com/ziyoungsRoom/Algorithm-Study/commit/56654caf5e82765c0ed42887005dc6d69ec7e7f8) | [💚](https://github.com/ziyoungsRoom/Algorithm-Study/commit/0a64e922506c6bb22f42f38362ffa09ffd9e8a2e) | [💙](https://github.com/ziyoungsRoom/Algorithm-Study/commit/f34507eadf093fe8e856db51b7f6284b427059fd) |
+| <img src="https://static.solved.ac/tier_small/s1.svg" width="16px" /> | [11654 아스키코드](https://www.acmicpc.net/problem/11654) | [💛](https://github.com/ziyoungsRoom/Algorithm-Study/commit/b5b1673daff2df69436ecbcd5082a40f2f1434c6) | [💚](https://github.com/ziyoungsRoom/Algorithm-Study/commit/4f73f1655028a54a116c1ca66c69e25ef26ffd05) | [💙](https://github.com/ziyoungsRoom/Algorithm-Study/commit/fc58c36e74dd8f04ce35a0dae459944d82ffa820) |
+| <img src="https://static.solved.ac/tier_small/s1.svg" width="16px" /> | [25083 새싹](https://www.acmicpc.net/problem/25083) | [💛](https://github.com/ziyoungsRoom/Algorithm-Study/commit/da5ac7d655ba183b95b4c94104496a2858603da0) | [💚](https://github.com/ziyoungsRoom/Algorithm-Study/commit/fa72743b403dedd1e2b32408b806da45963accd5) | [💙](https://github.com/ziyoungsRoom/Algorithm-Study/commit/5b940fdfbb1f8438fe35b5a2c4e933f5d43a30d9) |
+| <img src="https://static.solved.ac/tier_small/s1.svg" width="16px" /> | [27866 문자와 문자열](https://www.acmicpc.net/problem/27866) | [💛](https://github.com/ziyoungsRoom/Algorithm-Study/commit/7c335fa0fb936db15f8c172177b01cab5e2a0c4a) | [💚](https://github.com/ziyoungsRoom/Algorithm-Study/commit/a2475de1799572037929a3e1a20a8fed03124553) | [💙](https://github.com/ziyoungsRoom/Algorithm-Study/commit/9128af81de6f3f1f4a542386505178c5b8fc31ff) |
+| <img src="https://static.solved.ac/tier_small/2.svg" width="16px" /> | [11720 숫자의 합](https://www.acmicpc.net/problem/11720) | [💛](https://github.com/ziyoungsRoom/Algorithm-Study/commit/f9bd06af409bc484500902f69e2b0bf103361fa2) | [💚](https://github.com/ziyoungsRoom/Algorithm-Study/commit/a009924cdd2f6f4692a896df1cb361e476fb2f74) | [💙](https://github.com/ziyoungsRoom/Algorithm-Study/commit/3058547ef90e64077434921c6aa6052ea91b5b3b) |
+| <img src="https://static.solved.ac/tier_small/3.svg" width="16px" /> | [2562 최댓값](https://www.acmicpc.net/problem/2562) | [💛](https://github.com/ziyoungsRoom/Algorithm-Study/commit/598db555ac70bfca245dc1bc415c3675c1d42248) | [💚](https://github.com/ziyoungsRoom/Algorithm-Study/commit/c0cc316d413e0e932715fdaf9f75c816d99febf8) | [💙](https://github.com/ziyoungsRoom/Algorithm-Study/commit/4940e64c8dff0470dcbdbfd4b8ba8b4640da7f52) |
+| <img src="https://static.solved.ac/tier_small/3.svg" width="16px" /> | [10818 최소, 최대](https://www.acmicpc.net/problem/10818) | [💛](https://github.com/ziyoungsRoom/Algorithm-Study/commit/11007880d5f641278fb1e0735581d8d13dff221e) | [💚](https://github.com/ziyoungsRoom/Algorithm-Study/commit/f9c3504af4208f85d2df2f19aad301e74ae55412) | [💙](https://github.com/ziyoungsRoom/Algorithm-Study/commit/412a26d4b20076d84e73c41bdb9ecd797672ef08) |
+| <img src="https://static.solved.ac/tier_small/4.svg" width="16px" /> | [2675 문자열 반복](https://www.acmicpc.net/problem/2675) | [💛](https://github.com/ziyoungsRoom/Algorithm-Study/commit/2d0a56b0b2bc35e8a36ad365059452de295a5c64) | [💚](https://github.com/ziyoungsRoom/Algorithm-Study/commit/19528aa6056bc8104b68968ecd0c4a7359ebb7c4) | [💙](https://github.com/ziyoungsRoom/Algorithm-Study/commit/3338cc0077c42891a4a579115674aa4e59273116) |
+
+</details>
+
+---
+
+## 🎉 마지막으로
+<div align="center">
+
+**🌟 "혼자 가면 빠르지만, 함께 가면 멀리 간다" 🌟**
+
+**복잡한 문제도 함께라면 Solve It! 💪**
+
+---
+
+⭐ **이 스터디가 도움이 되셨다면 Star를 눌러주세요!** ⭐
+
+</div>
