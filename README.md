@@ -151,7 +151,7 @@ BaekJoon Gold 티어 달성 !
       <td>10814</td>
       <td><a href="https://www.acmicpc.net/problem/10814">나이순 정렬</a></td>
       <td><a href=''>💛</a></td>
-      <td><a href=''>💚</a></td>
+      <td><a href='https://github.com/ziyoungsRoom/Algorithm-Study/commit/0de790286cace19f7fdadbbf5bf5ebce2b1a7cf3'>💚</a></td>
       <td><a href=''>💙</a></td>
     </tr>
     <tr align="center">
@@ -159,7 +159,7 @@ BaekJoon Gold 티어 달성 !
       <td>11650</td>
       <td><a href="https://www.acmicpc.net/problem/11650">좌표 정렬하기</a></td>
       <td><a href=''>💛</a></td>
-      <td><a href=''>💚</a></td>
+      <td><a href='https://github.com/ziyoungsRoom/Algorithm-Study/commit/ef1e8d14246d244f6c9fe31f545c71c1e48f453d'>💚</a></td>
       <td><a href=''>💙</a></td>
     </tr>
     <tr align="center">
@@ -167,7 +167,7 @@ BaekJoon Gold 티어 달성 !
       <td>1018</td>
       <td><a href="https://www.acmicpc.net/problem/1018">체스판 다시 칠하기</a></td>
       <td><a href=''>💛</a></td>
-      <td><a href=''>💚</a></td>
+      <td><a href='https://github.com/ziyoungsRoom/Algorithm-Study/commit/3b53e0c73b00ffbd97da6199ff281accb8830043'>💚</a></td>
       <td><a href=''>💙</a></td>
     </tr>
     <tr align="center">
@@ -175,7 +175,7 @@ BaekJoon Gold 티어 달성 !
       <td>1920</td>
       <td><a href="https://www.acmicpc.net/problem/1920">수 찾기</a></td>
       <td><a href=''>💛</a></td>
-      <td><a href=''>💚</a></td>
+      <td><a href='https://github.com/ziyoungsRoom/Algorithm-Study/commit/2d0f0009eed2306e35a9f71fc698115483177ca2'>💚</a></td>
       <td><a href=''>💙</a></td>
     </tr>
     <tr align="center">
@@ -183,7 +183,7 @@ BaekJoon Gold 티어 달성 !
       <td>2164</td>
       <td><a href="https://www.acmicpc.net/problem/2164">카드2</a></td>
       <td><a href=''>💛</a></td>
-      <td><a href=''>💚</a></td>
+      <td><a href='https://github.com/ziyoungsRoom/Algorithm-Study/commit/63c0de9c73d6bbfb59a5614d293593c337f06993'>💚</a></td>
       <td><a href=''>💙</a></td>
     </tr>
     <tr align="center">
@@ -191,7 +191,7 @@ BaekJoon Gold 티어 달성 !
       <td>9012</td>
       <td><a href="https://www.acmicpc.net/problem/9012">괄호</a></td>
       <td><a href=''>💛</a></td>
-      <td><a href=''>💚</a></td>
+      <td><a href='https://github.com/ziyoungsRoom/Algorithm-Study/commit/3906009286b90943e95d9fbcfcadaa0d73d847ac'>💚</a></td>
       <td><a href=''>💙</a></td>
     </tr>
   </tbody>
