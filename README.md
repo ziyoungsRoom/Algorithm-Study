@@ -185,6 +185,7 @@
 
 ## 📈 주차별 진행 현황
 #### 완료된 주차까지 💛💚💙 하트를 클릭하면 각자 풀이를 볼 수 있어요!
+#### 💬 표시된 문제는 코드 리뷰 코멘트가 달려 있어요!
 
 ## **Week 5** ![진행중](https://img.shields.io/badge/Status-진행중-yellow?style=flat-square&logo=gear)
 
