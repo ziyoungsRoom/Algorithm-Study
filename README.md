@@ -188,14 +188,15 @@
   
 <br>
 
-|                                난이도                                | 문제 링크                                                      | 지영 🟡 |                                                민애 🟢                                                | 슬기 🔵 |
-| :------------------------------------------------------------------: | -------------------------------------------------------------- | :-----: | :---------------------------------------------------------------------------------------------------: | :-----: |
-| <img src="https://static.solved.ac/tier_small/7.svg" width="16px" /> | [10816 숫자 카드 2](https://www.acmicpc.net/problem/10816)     | [💛](#) | [💚](https://github.com/ziyoungsRoom/Algorithm-Study/commit/7601bca3b8851d7d875231b503978ca2e7d2cd99) | [💙](#) |
-| <img src="https://static.solved.ac/tier_small/7.svg" width="16px" /> | [10828 스택](https://www.acmicpc.net/problem/10828)            | [💛](#) | [💚](https://github.com/ziyoungsRoom/Algorithm-Study/commit/b876218cc2c5937ce3354f1099ca27d3be2c7797) | [💙](#) |
-| <img src="https://static.solved.ac/tier_small/7.svg" width="16px" /> | [10845 큐](https://www.acmicpc.net/problem/10845)              | [💛](#) | [💚](https://github.com/ziyoungsRoom/Algorithm-Study/commit/fb790c2de49a11f00b7cb3d3a7e209392fe84a32) | [💙](#) |
-| <img src="https://static.solved.ac/tier_small/7.svg" width="16px" /> | [11866 요세푸스 문제 0](https://www.acmicpc.net/problem/11866) | [💛](#) | [💚](https://github.com/ziyoungsRoom/Algorithm-Study/commit/bfd90a27a0b2446ed4ccf69270bd63c9b64de734) | [💙](#) |
-| <img src="https://static.solved.ac/tier_small/6.svg" width="16px" /> | [11723 집합](https://www.acmicpc.net/problem/11723)            | [💛](#) |                                                [💚](#)                                                | [💙](#) |
-| <img src="https://static.solved.ac/tier_small/7.svg" width="16px" /> | [1764 듣보잡](https://www.acmicpc.net/problem/1764)            | [💛](#) | [💚](https://github.com/ziyoungsRoom/Algorithm-Study/commit/7ea7970bbbb7489a697eea9234a9b89113fc6f38) | [💙](#) |
+|                                난이도                                | 문제 링크                                                      |                                                지영 🟡                                                | 민애 🟢 | 슬기 🔵 |
+| :------------------------------------------------------------------: | -------------------------------------------------------------- | :---------------------------------------------------------------------------------------------------: | :-----: | :-----: |
+| <img src="https://static.solved.ac/tier_small/7.svg" width="16px" /> | [10816 숫자 카드 2](https://www.acmicpc.net/problem/10816)     |                     [💛](https://github.com/ziyoungsRoom/Algorithm-Study/commit/)                     | [💚](https://github.com/ziyoungsRoom/Algorithm-Study/commit/7601bca3b8851d7d875231b503978ca2e7d2cd99) | [💙](#) |
+| <img src="https://static.solved.ac/tier_small/7.svg" width="16px" /> | [10828 스택](https://www.acmicpc.net/problem/10828)            |                     [💛](https://github.com/ziyoungsRoom/Algorithm-Study/commit/)                     | [💚](https://github.com/ziyoungsRoom/Algorithm-Study/commit/b876218cc2c5937ce3354f1099ca27d3be2c7797) | [💙](#) |
+| <img src="https://static.solved.ac/tier_small/7.svg" width="16px" /> | [10845 큐](https://www.acmicpc.net/problem/10845)              | [💛](https://github.com/ziyoungsRoom/Algorithm-Study/commit/1bb6f909f70fca411a043d70690384d3e09f52bb) | [💚](https://github.com/ziyoungsRoom/Algorithm-Study/commit/fb790c2de49a11f00b7cb3d3a7e209392fe84a32) | [💙](#) |
+| <img src="https://static.solved.ac/tier_small/7.svg" width="16px" /> | [11866 요세푸스 문제 0](https://www.acmicpc.net/problem/11866) | [💛](https://github.com/ziyoungsRoom/Algorithm-Study/commit/6dabbd18b2005344c9526cac9a15946f0973d5eb) | [💚](https://github.com/ziyoungsRoom/Algorithm-Study/commit/bfd90a27a0b2446ed4ccf69270bd63c9b64de734) | [💙](#) |
+| <img src="https://static.solved.ac/tier_small/6.svg" width="16px" /> | [11723 집합](https://www.acmicpc.net/problem/11723)            |                     [💛](#) | [💚](#) | [💙](#) |
+| <img src="https://static.solved.ac/tier_small/7.svg" width="16px" /> | [1764 듣보잡](https://www.acmicpc.net/problem/1764)            | [💛](https://github.com/ziyoungsRoom/Algorithm-Study/commit/1e8d508313c1bff7ee971aa6ce62a7212958bec4) | [💚](https://github.com/ziyoungsRoom/Algorithm-Study/commit/7ea7970bbbb7489a697eea9234a9b89113fc6f38) | [💙](#) |
+
 
 <!-- </details> -->
 
