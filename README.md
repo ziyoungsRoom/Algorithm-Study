@@ -189,6 +189,21 @@
 
 #### 💬 표시된 문제는 코드 리뷰 코멘트가 달려 있어요!
 
+## **Week 6** ![진행중](https://img.shields.io/badge/Status-진행중-yellow?style=flat-square&logo=gear)
+
+<!-- <details> -->
+<summary><b>📋 문제 목록 보기</b></summary>
+  
+<br>
+
+|                                난이도                                | 문제 링크                                                       | 지영 🟡 | 민애 🟢 | 슬기 🔵 |
+| :------------------------------------------------------------------: | --------------------------------------------------------------- | ------- | ------- | ------- |
+| <img src="https://static.solved.ac/tier_small/8.svg" width="16px" /> | [2606 바이러스](https://www.acmicpc.net/problem/2606)           | [💛](#) | [💚](#) | [💙](#) |
+| <img src="https://static.solved.ac/tier_small/8.svg" width="16px" /> | [9095 1,2,3 더하기](https://www.acmicpc.net/problem/9095)       | [💛](#) | [💚](#) | [💙](#) |
+| <img src="https://static.solved.ac/tier_small/8.svg" width="16px" /> | [11659 구간 합 구하기 4](https://www.acmicpc.net/problem/11659) | [💛](#) | [💚](#) | [💙](#) |
+
+<!-- </details> -->
+
 ## **Week 5** ![완료](https://img.shields.io/badge/Status-완료-brightgreen?style=flat-square&logo=check)
 
 <details>
