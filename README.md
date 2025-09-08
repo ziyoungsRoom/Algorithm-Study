@@ -215,7 +215,7 @@
 | :------------------------------------------------------------------: | ---------------------------------------------------------- | ----------------------------------------------------------------------------------------------------- | ------- | ------- |
 | <img src="https://static.solved.ac/tier_small/7.svg" width="16px" /> | [11399 ATM](https://www.acmicpc.net/problem/11399)         | [💛](https://github.com/ziyoungsRoom/Algorithm-Study/commit/61671235ba4a4f62b00d8dc4787cfe62f2c78dad) | [💚](#) | [💙](#) |
 | <img src="https://static.solved.ac/tier_small/7.svg" width="16px" /> | [1003 피보나치 함수](https://www.acmicpc.net/problem/1003) | [💛](https://github.com/ziyoungsRoom/Algorithm-Study/commit/759f99ae117cd1f0f936919a59886fd6b18beac6) | [💚](#) | [💙](#) |
-| <img src="https://static.solved.ac/tier_small/7.svg" width="16px" /> | [1463 1로 만들기](https://www.acmicpc.net/problem/1463)    | [💛](https://github.com/ziyoungsRoom/Algorithm-Study/commit/b93ffd125d8590c3797cca3d42bd7f4d88714c86) | [💚](#) | [💙](#) |
+| <img src="https://static.solved.ac/tier_small/7.svg" width="16px" /> | [💬 1463 1로 만들기](https://www.acmicpc.net/problem/1463) | [💛](https://github.com/ziyoungsRoom/Algorithm-Study/commit/b93ffd125d8590c3797cca3d42bd7f4d88714c86) | [💚](#) | [💙](#) |
 
 </details>
 
