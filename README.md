@@ -184,7 +184,9 @@
 <br>
 
 ## 📈 주차별 진행 현황
+
 #### 완료된 주차까지 💛💚💙 하트를 클릭하면 각자 풀이를 볼 수 있어요!
+
 #### 💬 표시된 문제는 코드 리뷰 코멘트가 달려 있어요!
 
 ## **Week 5** ![진행중](https://img.shields.io/badge/Status-진행중-yellow?style=flat-square&logo=gear)
@@ -194,11 +196,11 @@
   
 <br>
 
-|                                난이도                                | 문제 링크                                                  | 지영 🟡 | 민애 🟢 | 슬기 🔵 |
-| :------------------------------------------------------------------: | ---------------------------------------------------------- | ------- | ------- | ------- |
-| <img src="https://static.solved.ac/tier_small/7.svg" width="16px" /> | [11399 ATM](https://www.acmicpc.net/problem/11399)         | [💛](#) | [💚](#) | [💙](#) |
-| <img src="https://static.solved.ac/tier_small/7.svg" width="16px" /> | [1003 피보나치 함수](https://www.acmicpc.net/problem/1003) | [💛](#) | [💚](#) | [💙](#) |
-| <img src="https://static.solved.ac/tier_small/7.svg" width="16px" /> | [1463 1로 만들기](https://www.acmicpc.net/problem/1463)    | [💛](#) | [💚](#) | [💙](#) |
+|                                난이도                                | 문제 링크                                                  | 지영 🟡                                                                                               | 민애 🟢 | 슬기 🔵 |
+| :------------------------------------------------------------------: | ---------------------------------------------------------- | ----------------------------------------------------------------------------------------------------- | ------- | ------- |
+| <img src="https://static.solved.ac/tier_small/7.svg" width="16px" /> | [11399 ATM](https://www.acmicpc.net/problem/11399)         | [💛](https://github.com/ziyoungsRoom/Algorithm-Study/commit/61671235ba4a4f62b00d8dc4787cfe62f2c78dad) | [💚](#) | [💙](#) |
+| <img src="https://static.solved.ac/tier_small/7.svg" width="16px" /> | [1003 피보나치 함수](https://www.acmicpc.net/problem/1003) | [💛](https://github.com/ziyoungsRoom/Algorithm-Study/commit/759f99ae117cd1f0f936919a59886fd6b18beac6) | [💚](#) | [💙](#) |
+| <img src="https://static.solved.ac/tier_small/7.svg" width="16px" /> | [1463 1로 만들기](https://www.acmicpc.net/problem/1463)    | [💛](https://github.com/ziyoungsRoom/Algorithm-Study/commit/b93ffd125d8590c3797cca3d42bd7f4d88714c86) | [💚](#) | [💙](#) |
 
 <!-- </details> -->
 
