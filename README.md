@@ -196,11 +196,11 @@
   
 <br>
 
-|                                난이도                                | 문제 링크                                                       | 지영 🟡 | 민애 🟢 | 슬기 🔵                                                                                               |
-| :------------------------------------------------------------------: | --------------------------------------------------------------- | ------- | ------- | ----------------------------------------------------------------------------------------------------- |
-| <img src="https://static.solved.ac/tier_small/8.svg" width="16px" /> | [2606 바이러스](https://www.acmicpc.net/problem/2606)           | [💛](#) | [💚](#) | [💙](https://github.com/ziyoungsRoom/Algorithm-Study/commit/9d0938a7ff449b10f51eb18264175d7aefd554c9) |
-| <img src="https://static.solved.ac/tier_small/8.svg" width="16px" /> | [9095 1,2,3 더하기](https://www.acmicpc.net/problem/9095)       | [💛](#) | [💚](#) | [💙](https://github.com/ziyoungsRoom/Algorithm-Study/commit/0aff5bb6b06a4efcbb1e935fa54da6215c3b7388) |
-| <img src="https://static.solved.ac/tier_small/8.svg" width="16px" /> | [11659 구간 합 구하기 4](https://www.acmicpc.net/problem/11659) | [💛](#) | [💚](#) | [💙](https://github.com/ziyoungsRoom/Algorithm-Study/commit/2270daccd7fe348a20c25e0b6c27e01825719b8f) |
+|                                난이도                                | 문제 링크                                                       | 지영 🟡 | 민애 🟢                                                                                               | 슬기 🔵                                                                                               |
+| :------------------------------------------------------------------: | --------------------------------------------------------------- | ------- | ----------------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------- |
+| <img src="https://static.solved.ac/tier_small/8.svg" width="16px" /> | [2606 바이러스](https://www.acmicpc.net/problem/2606)           | [💛](#) | [💚](https://github.com/ziyoungsRoom/Algorithm-Study/commit/52303713cd522a81997e5437345171a3aba367b4) | [💙](https://github.com/ziyoungsRoom/Algorithm-Study/commit/9d0938a7ff449b10f51eb18264175d7aefd554c9) |
+| <img src="https://static.solved.ac/tier_small/8.svg" width="16px" /> | [9095 1,2,3 더하기](https://www.acmicpc.net/problem/9095)       | [💛](#) | [💚](https://github.com/ziyoungsRoom/Algorithm-Study/commit/269f3359d14900d46adeae50e3685ea80eb77804) | [💙](https://github.com/ziyoungsRoom/Algorithm-Study/commit/0aff5bb6b06a4efcbb1e935fa54da6215c3b7388) |
+| <img src="https://static.solved.ac/tier_small/8.svg" width="16px" /> | [11659 구간 합 구하기 4](https://www.acmicpc.net/problem/11659) | [💛](#) | [💚](https://github.com/ziyoungsRoom/Algorithm-Study/commit/f2b4dd8df5b3acd8bf7e8b8c281b79f61e54f0a6) | [💙](https://github.com/ziyoungsRoom/Algorithm-Study/commit/2270daccd7fe348a20c25e0b6c27e01825719b8f) |
 
 <!-- </details> -->
 
