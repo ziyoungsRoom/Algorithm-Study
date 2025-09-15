@@ -189,9 +189,24 @@
 
 #### 💬 표시된 문제는 코드 리뷰 코멘트가 달려 있어요!
 
-## **Week 6** ![진행중](https://img.shields.io/badge/Status-진행중-yellow?style=flat-square&logo=gear)
+## **Week 7** ![진행중](https://img.shields.io/badge/Status-진행중-yellow?style=flat-square&logo=gear)
 
 <!-- <details> -->
+<summary><b>📋 문제 목록 보기</b></summary>
+  
+<br>
+
+|                                난이도                                | 문제 링크                                                 | 지영 🟡 | 민애 🟢 | 슬기 🔵 |
+| :------------------------------------------------------------------: | --------------------------------------------------------- | ------- | ------- | ------- |
+| <img src="https://static.solved.ac/tier_small/8.svg" width="16px" /> | [11726 2xn 타일링](https://www.acmicpc.net/problem/11726) | [💛](#) | [💚](#) | [💙](#) |
+| <img src="https://static.solved.ac/tier_small/9.svg" width="16px" /> | [1012 유기농 배추](https://www.acmicpc.net/problem/1012)  | [💛](#) | [💚](#) | [💙](#) |
+| <img src="https://static.solved.ac/tier_small/9.svg" width="16px" /> | [1927 최소 힙](https://www.acmicpc.net/problem/1927)      | [💛](#) | [💚](#) | [💙](#) |
+
+<!-- </details> -->
+
+## **Week 6** ![완료](https://img.shields.io/badge/Status-완료-brightgreen?style=flat-square&logo=check)
+
+<details>
 <summary><b>📋 문제 목록 보기</b></summary>
   
 <br>
@@ -202,7 +217,7 @@
 | <img src="https://static.solved.ac/tier_small/8.svg" width="16px" /> | [9095 1,2,3 더하기](https://www.acmicpc.net/problem/9095)       | [💛](https://github.com/ziyoungsRoom/Algorithm-Study/commit/4aa2c9ab7dfa2349b72e4f97f503e1fc8b9827be) | [💚](#) | [💙](#) |
 | <img src="https://static.solved.ac/tier_small/8.svg" width="16px" /> | [11659 구간 합 구하기 4](https://www.acmicpc.net/problem/11659) | [💛](https://github.com/ziyoungsRoom/Algorithm-Study/commit/3b6128fc11dbd6e7e0673fc0ef999c93b0f7f1a9) | [💚](#) | [💙](#) |
 
-<!-- </details> -->
+</details>
 
 ## **Week 5** ![완료](https://img.shields.io/badge/Status-완료-brightgreen?style=flat-square&logo=check)
 
