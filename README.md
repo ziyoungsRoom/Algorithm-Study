@@ -213,7 +213,7 @@
 
 |                                난이도                                | 문제 링크                                                       | 지영 🟡                                                                                               | 민애 🟢 | 슬기 🔵 |
 | :------------------------------------------------------------------: | --------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------- | ------- | ------- |
-| <img src="https://static.solved.ac/tier_small/8.svg" width="16px" /> | [2606 바이러스](https://www.acmicpc.net/problem/2606)           | [💛](https://github.com/ziyoungsRoom/Algorithm-Study/commit/8ee2a1cc476f22057e378074bfaea3c69b435923) | [💚](#) | [💙](#) |
+| <img src="https://static.solved.ac/tier_small/8.svg" width="16px" /> | [💬 2606 바이러스](https://www.acmicpc.net/problem/2606)        | [💛](https://github.com/ziyoungsRoom/Algorithm-Study/commit/8ee2a1cc476f22057e378074bfaea3c69b435923) | [💚](#) | [💙](#) |
 | <img src="https://static.solved.ac/tier_small/8.svg" width="16px" /> | [9095 1,2,3 더하기](https://www.acmicpc.net/problem/9095)       | [💛](https://github.com/ziyoungsRoom/Algorithm-Study/commit/4aa2c9ab7dfa2349b72e4f97f503e1fc8b9827be) | [💚](#) | [💙](#) |
 | <img src="https://static.solved.ac/tier_small/8.svg" width="16px" /> | [11659 구간 합 구하기 4](https://www.acmicpc.net/problem/11659) | [💛](https://github.com/ziyoungsRoom/Algorithm-Study/commit/3b6128fc11dbd6e7e0673fc0ef999c93b0f7f1a9) | [💚](#) | [💙](#) |
 
