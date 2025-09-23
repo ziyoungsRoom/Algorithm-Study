@@ -196,13 +196,11 @@
   
 <br>
 
-
-|                                난이도                                | 문제 링크                                                 | 지영 🟡 | 민애 🟢 | 슬기 🔵 |
-| :------------------------------------------------------------------: | --------------------------------------------------------- | ------- | ------- | ------- |
-| <img src="https://static.solved.ac/tier_small/8.svg" width="16px" /> | [11726 2xn 타일링](https://www.acmicpc.net/problem/11726) | [💛](#) | [💚](#) | [💙](#) |
-| <img src="https://static.solved.ac/tier_small/9.svg" width="16px" /> | [1012 유기농 배추](https://www.acmicpc.net/problem/1012)  | [💛](#) | [💚](#) | [💙](#) |
-| <img src="https://static.solved.ac/tier_small/9.svg" width="16px" /> | [1927 최소 힙](https://www.acmicpc.net/problem/1927)      | [💛](#) | [💚](#) | [💙](#) |
-
+|                                난이도                                | 문제 링크                                                 | 지영 🟡                                                                                               | 민애 🟢 | 슬기 🔵 |
+| :------------------------------------------------------------------: | --------------------------------------------------------- | ----------------------------------------------------------------------------------------------------- | ------- | ------- |
+| <img src="https://static.solved.ac/tier_small/8.svg" width="16px" /> | [11726 2xn 타일링](https://www.acmicpc.net/problem/11726) | [💛](https://github.com/ziyoungsRoom/Algorithm-Study/commit/c4efae85ce4459dd399b6a9d485c3349cd766b46) | [💚](#) | [💙](#) |
+| <img src="https://static.solved.ac/tier_small/9.svg" width="16px" /> | [1012 유기농 배추](https://www.acmicpc.net/problem/1012)  | [💛](https://github.com/ziyoungsRoom/Algorithm-Study/commit/a3ac3c7c6e9a6527140e75dfb0104e53113d293b) | [💚](#) | [💙](#) |
+| <img src="https://static.solved.ac/tier_small/9.svg" width="16px" /> | [1927 최소 힙](https://www.acmicpc.net/problem/1927)      | [💛](https://github.com/ziyoungsRoom/Algorithm-Study/commit/24d2f691fd0854191072fe42174bd26924be36d3) | [💚](#) | [💙](#) |
 
 <!-- </details> -->
 
@@ -213,9 +211,9 @@
   
 <br>
 
-|                                난이도                                | 문제 링크                                                       | 지영 🟡 | 민애 🟢                                                                                               | 슬기 🔵                                                                                               |
-| :------------------------------------------------------------------: | --------------------------------------------------------------- | ------- | ----------------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------- |
-| <img src="https://static.solved.ac/tier_small/8.svg" width="16px" /> | [💬 2606 바이러스](https://www.acmicpc.net/problem/2606)           | [💛](https://github.com/ziyoungsRoom/Algorithm-Study/commit/8ee2a1cc476f22057e378074bfaea3c69b435923) | [💚](https://github.com/ziyoungsRoom/Algorithm-Study/commit/52303713cd522a81997e5437345171a3aba367b4) | [💙](https://github.com/ziyoungsRoom/Algorithm-Study/commit/9d0938a7ff449b10f51eb18264175d7aefd554c9) |
+|                                난이도                                | 문제 링크                                                       | 지영 🟡                                                                                               | 민애 🟢                                                                                               | 슬기 🔵                                                                                               |
+| :------------------------------------------------------------------: | --------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------- |
+| <img src="https://static.solved.ac/tier_small/8.svg" width="16px" /> | [💬 2606 바이러스](https://www.acmicpc.net/problem/2606)        | [💛](https://github.com/ziyoungsRoom/Algorithm-Study/commit/8ee2a1cc476f22057e378074bfaea3c69b435923) | [💚](https://github.com/ziyoungsRoom/Algorithm-Study/commit/52303713cd522a81997e5437345171a3aba367b4) | [💙](https://github.com/ziyoungsRoom/Algorithm-Study/commit/9d0938a7ff449b10f51eb18264175d7aefd554c9) |
 | <img src="https://static.solved.ac/tier_small/8.svg" width="16px" /> | [9095 1,2,3 더하기](https://www.acmicpc.net/problem/9095)       | [💛](https://github.com/ziyoungsRoom/Algorithm-Study/commit/4aa2c9ab7dfa2349b72e4f97f503e1fc8b9827be) | [💚](https://github.com/ziyoungsRoom/Algorithm-Study/commit/269f3359d14900d46adeae50e3685ea80eb77804) | [💙](https://github.com/ziyoungsRoom/Algorithm-Study/commit/0aff5bb6b06a4efcbb1e935fa54da6215c3b7388) |
 | <img src="https://static.solved.ac/tier_small/8.svg" width="16px" /> | [11659 구간 합 구하기 4](https://www.acmicpc.net/problem/11659) | [💛](https://github.com/ziyoungsRoom/Algorithm-Study/commit/3b6128fc11dbd6e7e0673fc0ef999c93b0f7f1a9) | [💚](https://github.com/ziyoungsRoom/Algorithm-Study/commit/f2b4dd8df5b3acd8bf7e8b8c281b79f61e54f0a6) | [💙](https://github.com/ziyoungsRoom/Algorithm-Study/commit/2270daccd7fe348a20c25e0b6c27e01825719b8f) |
 
