@@ -189,9 +189,24 @@
 
 #### 💬 표시된 문제는 코드 리뷰 코멘트가 달려 있어요!
 
-## **Week 7** ![진행중](https://img.shields.io/badge/Status-진행중-yellow?style=flat-square&logo=gear)
+## **Week 8** ![진행중](https://img.shields.io/badge/Status-진행중-yellow?style=flat-square&logo=gear)
 
 <!-- <details> -->
+<summary><b>📋 문제 목록 보기</b></summary>
+  
+<br>
+
+|                                난이도                                | 문제 링크                                                       | 지영 🟡 | 민애 🟢 | 슬기 🔵 |
+| :------------------------------------------------------------------: | --------------------------------------------------------------- | ------- | ------- | ------- |
+| <img src="https://static.solved.ac/tier_small/9.svg" width="16px" /> | [2630 색종이 만들기](https://www.acmicpc.net/problem/2630)      | [💛](#) | [💚](#) | [💙](#) |
+| <img src="https://static.solved.ac/tier_small/9.svg" width="16px" /> | [2805 나무 자르기](https://www.acmicpc.net/problem/2805)        | [💛](#) | [💚](#) | [💙](#) |
+| <img src="https://static.solved.ac/tier_small/9.svg" width="16px" /> | [11724 연결 요소의 개수](https://www.acmicpc.net/problem/11724) | [💛](#) | [💚](#) | [💙](#) |
+
+<!-- </details> -->
+
+## **Week 7** ![완료](https://img.shields.io/badge/Status-완료-brightgreen?style=flat-square&logo=check)
+
+<details>
 <summary><b>📋 문제 목록 보기</b></summary>
   
 <br>
@@ -200,9 +215,9 @@
 | :------------------------------------------------------------------: | --------------------------------------------------------- | ----------------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------- |
 | <img src="https://static.solved.ac/tier_small/8.svg" width="16px" /> | [11726 2xn 타일링](https://www.acmicpc.net/problem/11726) | [💛](https://github.com/ziyoungsRoom/Algorithm-Study/commit/c4efae85ce4459dd399b6a9d485c3349cd766b46) | [💚](https://github.com/ziyoungsRoom/Algorithm-Study/commit/a2f4d8d80057f6e4223b3c05ab6070a0ea21d983) | [💙](https://github.com/ziyoungsRoom/Algorithm-Study/commit/aaede8039d32f76a0f9f64a23c8af9cf939abe74) |
 | <img src="https://static.solved.ac/tier_small/9.svg" width="16px" /> | [1012 유기농 배추](https://www.acmicpc.net/problem/1012)  | [💛](https://github.com/ziyoungsRoom/Algorithm-Study/commit/a3ac3c7c6e9a6527140e75dfb0104e53113d293b) | [💚](https://github.com/ziyoungsRoom/Algorithm-Study/commit/636a063df65a8fc44e9d83a14cda598b8cdcff00) | [💙](https://github.com/ziyoungsRoom/Algorithm-Study/commit/44d6a20e8cb9208c3a59028c276419328cde24e6) |
-| <img src="https://static.solved.ac/tier_small/9.svg" width="16px" /> | [1927 최소 힙](https://www.acmicpc.net/problem/1927)      | [💛](https://github.com/ziyoungsRoom/Algorithm-Study/commit/24d2f691fd0854191072fe42174bd26924be36d3) | [💚](https://github.com/ziyoungsRoom/Algorithm-Study/commit/7bf7203f980e103eb5d3036428b2f0d100515da3) | [💙](https://github.com/ziyoungsRoom/Algorithm-Study/commit/c75af012e184e5f0b7075f07e5bf0c8dbb1cf87a) |
+| <img src="https://static.solved.ac/tier_small/9.svg" width="16px" /> | [💬 1927 최소 힙](https://www.acmicpc.net/problem/1927)   | [💛](https://github.com/ziyoungsRoom/Algorithm-Study/commit/24d2f691fd0854191072fe42174bd26924be36d3) | [💚](https://github.com/ziyoungsRoom/Algorithm-Study/commit/7bf7203f980e103eb5d3036428b2f0d100515da3) | [💙](https://github.com/ziyoungsRoom/Algorithm-Study/commit/c75af012e184e5f0b7075f07e5bf0c8dbb1cf87a) |
 
-<!-- </details> -->
+</details>
 
 ## **Week 6** ![완료](https://img.shields.io/badge/Status-완료-brightgreen?style=flat-square&logo=check)
 
