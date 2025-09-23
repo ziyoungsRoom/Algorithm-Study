@@ -196,11 +196,13 @@
   
 <br>
 
-|                                난이도                                | 문제 링크                                                 | 지영 🟡 | 민애 🟢 | 슬기 🔵                                                                                               |
-| :------------------------------------------------------------------: | --------------------------------------------------------- | ------- | ------- | ----------------------------------------------------------------------------------------------------- |
-| <img src="https://static.solved.ac/tier_small/8.svg" width="16px" /> | [11726 2xn 타일링](https://www.acmicpc.net/problem/11726) | [💛](#) | [💚](#) | [💙](https://github.com/ziyoungsRoom/Algorithm-Study/commit/aaede8039d32f76a0f9f64a23c8af9cf939abe74) |
-| <img src="https://static.solved.ac/tier_small/9.svg" width="16px" /> | [1012 유기농 배추](https://www.acmicpc.net/problem/1012)  | [💛](#) | [💚](#) | [💙](https://github.com/ziyoungsRoom/Algorithm-Study/commit/44d6a20e8cb9208c3a59028c276419328cde24e6) |
-| <img src="https://static.solved.ac/tier_small/9.svg" width="16px" /> | [1927 최소 힙](https://www.acmicpc.net/problem/1927)      | [💛](#) | [💚](#) | [💙](https://github.com/ziyoungsRoom/Algorithm-Study/commit/c75af012e184e5f0b7075f07e5bf0c8dbb1cf87a) |
+
+|                                난이도                                | 문제 링크                                                 | 지영 🟡                                                                                               | 민애 🟢 | 슬기 🔵 |
+| :------------------------------------------------------------------: | --------------------------------------------------------- | ----------------------------------------------------------------------------------------------------- | ------- | ------- |
+| <img src="https://static.solved.ac/tier_small/8.svg" width="16px" /> | [11726 2xn 타일링](https://www.acmicpc.net/problem/11726) | [💛](https://github.com/ziyoungsRoom/Algorithm-Study/commit/c4efae85ce4459dd399b6a9d485c3349cd766b46) | [💚](#) | [💙](https://github.com/ziyoungsRoom/Algorithm-Study/commit/aaede8039d32f76a0f9f64a23c8af9cf939abe74) |
+| <img src="https://static.solved.ac/tier_small/9.svg" width="16px" /> | [1012 유기농 배추](https://www.acmicpc.net/problem/1012)  | [💛](https://github.com/ziyoungsRoom/Algorithm-Study/commit/a3ac3c7c6e9a6527140e75dfb0104e53113d293b) | [💚](#) | [💙](https://github.com/ziyoungsRoom/Algorithm-Study/commit/44d6a20e8cb9208c3a59028c276419328cde24e6) |
+| <img src="https://static.solved.ac/tier_small/9.svg" width="16px" /> | [1927 최소 힙](https://www.acmicpc.net/problem/1927)      | [💛](https://github.com/ziyoungsRoom/Algorithm-Study/commit/24d2f691fd0854191072fe42174bd26924be36d3) | [💚](#) | [💙](https://github.com/ziyoungsRoom/Algorithm-Study/commit/c75af012e184e5f0b7075f07e5bf0c8dbb1cf87a) |
+
 
 <!-- </details> -->
 
