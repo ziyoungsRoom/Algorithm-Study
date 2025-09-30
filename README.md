@@ -196,28 +196,26 @@
   
 <br>
 
-|                                난이도                                 | 문제 링크                                                    | 지영 🟡 | 민애 🟢 | 슬기 🔵 |
-| :-------------------------------------------------------------------: | ------------------------------------------------------------ | ------- | ------- | ------- |
-| <img src="https://static.solved.ac/tier_small/9.svg" width="16px" />  | [18870 좌표 압축](https://www.acmicpc.net/problem/18870)     | [💛](#) | [💚](#) | [💙](#) |
-| <img src="https://static.solved.ac/tier_small/10.svg" width="16px" /> | [1697 숨바꼭질](https://www.acmicpc.net/problem/1697)        | [💛](#) | [💚](#) | [💙](#) |
-| <img src="https://static.solved.ac/tier_small/10.svg" width="16px" /> | [14940 쉬운 최단거리](https://www.acmicpc.net/problem/14940) | [💛](#) | [💚](#) | [💙](#) |
+|                                난이도                                | 문제 링크                                                | 지영 🟡 | 민애 🟢 | 슬기 🔵 |
+| :------------------------------------------------------------------: | -------------------------------------------------------- | ------- | ------- | ------- |
+| <img src="https://static.solved.ac/tier_small/9.svg" width="16px" /> | [18870 좌표 압축](https://www.acmicpc.net/problem/18870) | [💛](#) | [💚](#) | [💙](#) |
 
 <!-- </details> -->
 
-## **Week 8** ![진행중](https://img.shields.io/badge/Status-진행중-yellow?style=flat-square&logo=gear)
+## **Week 8** ![완료](https://img.shields.io/badge/Status-완료-brightgreen?style=flat-square&logo=check)
 
-<!-- <details> -->
+<details>
 <summary><b>📋 문제 목록 보기</b></summary>
   
 <br>
 
 |                                난이도                                | 문제 링크                                                       | 지영 🟡                                                                                               | 민애 🟢                                                                                               | 슬기 🔵                                                                                               |
 | :------------------------------------------------------------------: | --------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------- |
-| <img src="https://static.solved.ac/tier_small/9.svg" width="16px" /> | [2630 색종이 만들기](https://www.acmicpc.net/problem/2630)      | [💛](https://github.com/ziyoungsRoom/Algorithm-Study/commit/e8ccb0953103b01056d126e7dd58c271864891fe) | [💚](https://github.com/ziyoungsRoom/Algorithm-Study/commit/c789de85ca5b75fb45d1215ec14d5d00df86de5c) | [💙](https://github.com/ziyoungsRoom/Algorithm-Study/commit/9cc6e5f11317cc5632f6ca42fb0d987bf17b3e06) |
+| <img src="https://static.solved.ac/tier_small/9.svg" width="16px" /> | [💬 2630 색종이 만들기](https://www.acmicpc.net/problem/2630)   | [💛](https://github.com/ziyoungsRoom/Algorithm-Study/commit/e8ccb0953103b01056d126e7dd58c271864891fe) | [💚](https://github.com/ziyoungsRoom/Algorithm-Study/commit/c789de85ca5b75fb45d1215ec14d5d00df86de5c) | [💙](https://github.com/ziyoungsRoom/Algorithm-Study/commit/9cc6e5f11317cc5632f6ca42fb0d987bf17b3e06) |
 | <img src="https://static.solved.ac/tier_small/9.svg" width="16px" /> | [2805 나무 자르기](https://www.acmicpc.net/problem/2805)        | [💛](https://github.com/ziyoungsRoom/Algorithm-Study/commit/39bdb3b14e0058db4a0f8dd50127bb5a53b235aa) | [💚](https://github.com/ziyoungsRoom/Algorithm-Study/commit/a401febd53774e9e2cf9450a1b124d78ccd149ea) | [💙](https://github.com/ziyoungsRoom/Algorithm-Study/commit/b383c09efcc3bff1d3e616c2583571e9f7b81611) |
 | <img src="https://static.solved.ac/tier_small/9.svg" width="16px" /> | [11724 연결 요소의 개수](https://www.acmicpc.net/problem/11724) | [💛](https://github.com/ziyoungsRoom/Algorithm-Study/commit/05933074fd28fb68775bbf41b6eb493b75b4f5e4) | [💚](https://github.com/ziyoungsRoom/Algorithm-Study/commit/82ba9725ab5bd1f37d7c61cea0923b768004cb6c) | [💙](https://github.com/ziyoungsRoom/Algorithm-Study/commit/feb3fe5559e65fd5d822aa76c405f2bd2c1491c3) |
 
-<!-- </details> -->
+</details>
 
 ## **Week 7** ![완료](https://img.shields.io/badge/Status-완료-brightgreen?style=flat-square&logo=check)
 
