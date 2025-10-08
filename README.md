@@ -189,18 +189,31 @@
 
 #### 💬 표시된 문제는 코드 리뷰 코멘트가 달려 있어요!
 
-## **Week 9** ![진행중](https://img.shields.io/badge/Status-진행중-yellow?style=flat-square&logo=gear)
+## **Week 10** ![진행중](https://img.shields.io/badge/Status-진행중-yellow?style=flat-square&logo=gear)
 
 <!-- <details> -->
 <summary><b>📋 문제 목록 보기</b></summary>
   
 <br>
 
-|                                난이도                                | 문제 링크                                                | 지영 🟡 | 민애 🟢                                                                                               | 슬기 🔵                                                                                               |
-| :------------------------------------------------------------------: | -------------------------------------------------------- | ------- | ----------------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------- |
-| <img src="https://static.solved.ac/tier_small/9.svg" width="16px" /> | [18870 좌표 압축](https://www.acmicpc.net/problem/18870) | [💛](#) | [💚](https://github.com/ziyoungsRoom/Algorithm-Study/commit/103f58cf40ca3393cc3828a9bd320248f0f46b75) | [💙](https://github.com/ziyoungsRoom/Algorithm-Study/commit/266fdd62b59f47b66b59c394ace0d82a353b8c57) |
+|                                난이도                                 | 문제 링크                                             | 지영 🟡 | 민애 🟢 | 슬기 🔵 |
+| :-------------------------------------------------------------------: | ----------------------------------------------------- | ------- | ------- | ------- |
+| <img src="https://static.solved.ac/tier_small/10.svg" width="16px" /> | [1697 숨바꼭질](https://www.acmicpc.net/problem/1697) | [💛](#) | [💚](#) | [💙](#) |
 
 <!-- </details> -->
+
+## **Week 9** ![완료](https://img.shields.io/badge/Status-완료-brightgreen?style=flat-square&logo=check)
+
+<details>
+<summary><b>📋 문제 목록 보기</b></summary>
+  
+<br>
+
+|                                난이도                                | 문제 링크                                                   | 지영 🟡                                                                                               | 민애 🟢                                                                                               | 슬기 🔵                                                                                               |
+| :------------------------------------------------------------------: | ----------------------------------------------------------- | ----------------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------- |
+| <img src="https://static.solved.ac/tier_small/9.svg" width="16px" /> | [💬 18870 좌표 압축](https://www.acmicpc.net/problem/18870) | [💛](https://github.com/ziyoungsRoom/Algorithm-Study/commit/cb538d0300b01420bf445e3f26a5f98184c08351) | [💚](https://github.com/ziyoungsRoom/Algorithm-Study/commit/103f58cf40ca3393cc3828a9bd320248f0f46b75) | [💙](https://github.com/ziyoungsRoom/Algorithm-Study/commit/266fdd62b59f47b66b59c394ace0d82a353b8c57) |
+
+</details>
 
 ## **Week 8** ![완료](https://img.shields.io/badge/Status-완료-brightgreen?style=flat-square&logo=check)
 
