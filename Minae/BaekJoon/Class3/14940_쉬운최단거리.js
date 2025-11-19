@@ -1,3 +1,4 @@
+// 언어: JavaScript, (성공/실패): 1/0, 메모리: 32,964 KB, 시간: 332 ms
 const fs = require('fs');
 const input = fs.readFileSync('/dev/stdin', 'utf8').trim().split('\n');
 const [n, m] = input[0].split(' ').map(Number);
