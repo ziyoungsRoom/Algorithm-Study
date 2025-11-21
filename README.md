@@ -225,10 +225,10 @@
 
 <br>
 
-|                                난이도                                 | 문제 링크                                                    | 지영 🟡 | 민애 🟢 | 슬기 🔵 |
-| :-------------------------------------------------------------------: | ------------------------------------------------------------ | ------- | ------- | ------- |
-| <img src="https://static.solved.ac/tier_small/10.svg" width="16px" /> | [14940 쉬운 최단거리](https://www.acmicpc.net/problem/14940) | [💛](#) | [💚](#) | [💙](#) |
-| <img src="https://static.solved.ac/tier_small/11.svg" width="16px" /> | [1074 Z](https://www.acmicpc.net/problem/1074)               | [💛](#) | [💚](#) | [💙](#) |
+|                                난이도                                 | 문제 링크                                                    | 지영 🟡                                                                                               | 민애 🟢 | 슬기 🔵 |
+| :-------------------------------------------------------------------: | ------------------------------------------------------------ | ----------------------------------------------------------------------------------------------------- | ------- | ------- |
+| <img src="https://static.solved.ac/tier_small/10.svg" width="16px" /> | [14940 쉬운 최단거리](https://www.acmicpc.net/problem/14940) | [💛](https://github.com/ziyoungsRoom/Algorithm-Study/commit/ee5fb285a2027d6aac2821aae880e8fc487e4af1) | [💚](#) | [💙](#) |
+| <img src="https://static.solved.ac/tier_small/11.svg" width="16px" /> | [1074 Z](https://www.acmicpc.net/problem/1074)               | [💛](https://github.com/ziyoungsRoom/Algorithm-Study/commit/fdd22b5176f3724216bd0b56382895afed4b91a7) | [💚](#) | [💙](#) |
 
 <!-- </details> -->
 
