@@ -225,10 +225,10 @@
 
 <br>
 
-|                                난이도                                 | 문제 링크                                                    | 지영 🟡                                                                                               | 민애 🟢 | 슬기 🔵 |
-| :-------------------------------------------------------------------: | ------------------------------------------------------------ | ----------------------------------------------------------------------------------------------------- | ------- | ------- |
-| <img src="https://static.solved.ac/tier_small/10.svg" width="16px" /> | [14940 쉬운 최단거리](https://www.acmicpc.net/problem/14940) | [💛](https://github.com/ziyoungsRoom/Algorithm-Study/commit/ee5fb285a2027d6aac2821aae880e8fc487e4af1) | [💚](#) | [💙](#) |
-| <img src="https://static.solved.ac/tier_small/11.svg" width="16px" /> | [1074 Z](https://www.acmicpc.net/problem/1074)               | [💛](https://github.com/ziyoungsRoom/Algorithm-Study/commit/fdd22b5176f3724216bd0b56382895afed4b91a7) | [💚](#) | [💙](#) |
+|                                난이도                                 | 문제 링크                                                    | 지영 🟡                                                                                               | 민애 🟢                                                                                               | 슬기 🔵 |
+| :-------------------------------------------------------------------: | ------------------------------------------------------------ | ----------------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------- | ------- |
+| <img src="https://static.solved.ac/tier_small/10.svg" width="16px" /> | [14940 쉬운 최단거리](https://www.acmicpc.net/problem/14940) | [💛](https://github.com/ziyoungsRoom/Algorithm-Study/commit/ee5fb285a2027d6aac2821aae880e8fc487e4af1) | [💚](https://github.com/ziyoungsRoom/Algorithm-Study/commit/da6fd956124c0d194adc1da15e1734775dd81734) | [💙](#) |
+| <img src="https://static.solved.ac/tier_small/11.svg" width="16px" /> | [1074 Z](https://www.acmicpc.net/problem/1074)               | [💛](https://github.com/ziyoungsRoom/Algorithm-Study/commit/fdd22b5176f3724216bd0b56382895afed4b91a7) | [💚](https://github.com/ziyoungsRoom/Algorithm-Study/commit/8d9e4cb335bed99f6e0a42b25bfd33c9c1bae5c4) | [💙](#) |
 
 <!-- </details> -->
 
