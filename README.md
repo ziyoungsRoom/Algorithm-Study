@@ -191,36 +191,24 @@
 
 ---
 
-## 📢 스터디 일시 중단 안내
-
-|       항목       | 내용                                                                              |
-| :--------------: | :-------------------------------------------------------------------------------- |
-|   🛠️ **사유**    | 개인 프로젝트 집중 기간<br/>(각자의 부트캠프, 자격증, 프로젝트 등 개인 목표 집중) |
-| 📅 **중단 기간** | 2025.10.13. ~ 2025.11.09.                                                         |
-| 🔄 **재개 예정** | 2025.11.10. (Week 11부터)                                                         |
-
-### **각자의 목표를 향해! 11월에 다시 만나요 🔥**
-
----
-
-<!-- ## **Week 12** ![진행중](https://img.shields.io/badge/Status-진행중-yellow?style=flat-square&logo=gear) -->
+## **Week 12** ![진행중](https://img.shields.io/badge/Status-진행중-yellow?style=flat-square&logo=gear)
 
 <!-- <details> -->
-<!-- <summary><b>📋 문제 목록 보기</b></summary>
+<summary><b>📋 문제 목록 보기</b></summary>
 
-<br> -->
+<br>
 
-<!-- |                                난이도                                 | 문제 링크                                                | 지영 🟡 | 민애 🟢 | 슬기 🔵 |
+|                                난이도                                 | 문제 링크                                                | 지영 🟡 | 민애 🟢 | 슬기 🔵 |
 | :-------------------------------------------------------------------: | -------------------------------------------------------- | ------- | ------- | ------- |
 | <img src="https://static.solved.ac/tier_small/11.svg" width="16px" /> | [1931 회의실 배정](https://www.acmicpc.net/problem/1931) | [💛](#) | [💚](#) | [💙](#) |
 | <img src="https://static.solved.ac/tier_small/11.svg" width="16px" /> | [7569 토마토](https://www.acmicpc.net/problem/7569)      | [💛](#) | [💚](#) | [💙](#) |
-| <img src="https://static.solved.ac/tier_small/8.svg" width="16px" />  | [15650 N과 M(2)](https://www.acmicpc.net/problem/7569)   | [💛](#) | [💚](#) | [💙](#) | -->
+| <img src="https://static.solved.ac/tier_small/8.svg" width="16px" />  | [15650 N과 M(2)](https://www.acmicpc.net/problem/7569)   | [💛](#) | [💚](#) | [💙](#) |
 
 <!-- </details> -->
 
-## **Week 11** ![진행중](https://img.shields.io/badge/Status-진행중-yellow?style=flat-square&logo=gear)
+## **Week 11** ![완료](https://img.shields.io/badge/Status-완료-brightgreen?style=flat-square&logo=check)
 
-<!-- <details> -->
+<details>
 <summary><b>📋 문제 목록 보기</b></summary>
 
 <br>
@@ -230,7 +218,7 @@
 | <img src="https://static.solved.ac/tier_small/10.svg" width="16px" /> | [14940 쉬운 최단거리](https://www.acmicpc.net/problem/14940) | [💛](https://github.com/ziyoungsRoom/Algorithm-Study/commit/ee5fb285a2027d6aac2821aae880e8fc487e4af1) | [💚](https://github.com/ziyoungsRoom/Algorithm-Study/commit/da6fd956124c0d194adc1da15e1734775dd81734) | [💙](https://github.com/ziyoungsRoom/Algorithm-Study/commit/8b8bd135624f0565f9324c4b0f7ac5b1d43198e2) |
 | <img src="https://static.solved.ac/tier_small/11.svg" width="16px" /> | [1074 Z](https://www.acmicpc.net/problem/1074)               | [💛](https://github.com/ziyoungsRoom/Algorithm-Study/commit/fdd22b5176f3724216bd0b56382895afed4b91a7) | [💚](https://github.com/ziyoungsRoom/Algorithm-Study/commit/8d9e4cb335bed99f6e0a42b25bfd33c9c1bae5c4) | [💙](https://github.com/ziyoungsRoom/Algorithm-Study/commit/b841b28249bfe573d63a67568176168d073d2942) |
 
-<!-- </details> -->
+</details>
 
 ## **Week 10** ![완료](https://img.shields.io/badge/Status-완료-brightgreen?style=flat-square&logo=check)
 
