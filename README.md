@@ -198,11 +198,11 @@
 
 <br>
 
-|                                난이도                                 | 문제 링크                                                | 지영 🟡 | 민애 🟢 | 슬기 🔵 |
-| :-------------------------------------------------------------------: | -------------------------------------------------------- | ------- | ------- | ------- |
-| <img src="https://static.solved.ac/tier_small/11.svg" width="16px" /> | [1931 회의실 배정](https://www.acmicpc.net/problem/1931) | [💛](#) | [💚](#) | [💙](#) |
-| <img src="https://static.solved.ac/tier_small/11.svg" width="16px" /> | [7569 토마토](https://www.acmicpc.net/problem/7569)      | [💛](#) | [💚](#) | [💙](#) |
-| <img src="https://static.solved.ac/tier_small/8.svg" width="16px" />  | [15650 N과 M(2)](https://www.acmicpc.net/problem/7569)   | [💛](#) | [💚](#) | [💙](#) |
+|                                난이도                                 | 문제 링크                                                | 지영 🟡                                                                                               | 민애 🟢 | 슬기 🔵 |
+| :-------------------------------------------------------------------: | -------------------------------------------------------- | ----------------------------------------------------------------------------------------------------- | ------- | ------- |
+| <img src="https://static.solved.ac/tier_small/11.svg" width="16px" /> | [1931 회의실 배정](https://www.acmicpc.net/problem/1931) | [💛](https://github.com/ziyoungsRoom/Algorithm-Study/commit/5d579e9d75f8a9df05c345a564a85d0aba498dce) | [💚](#) | [💙](#) |
+| <img src="https://static.solved.ac/tier_small/11.svg" width="16px" /> | [7569 토마토](https://www.acmicpc.net/problem/7569)      | [💛](#)                                                                                               | [💚](#) | [💙](#) |
+| <img src="https://static.solved.ac/tier_small/8.svg" width="16px" />  | [15650 N과 M(2)](https://www.acmicpc.net/problem/7569)   | [💛](#)                                                                                               | [💚](#) | [💙](#) |
 
 <!-- </details> -->
 
