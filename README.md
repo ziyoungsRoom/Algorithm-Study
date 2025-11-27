@@ -201,7 +201,7 @@
 |                                난이도                                 | 문제 링크                                                | 지영 🟡 | 민애 🟢 | 슬기 🔵 |
 | :-------------------------------------------------------------------: | -------------------------------------------------------- | ------- | ------- | ------- |
 | <img src="https://static.solved.ac/tier_small/11.svg" width="16px" /> | [1931 회의실 배정](https://www.acmicpc.net/problem/1931) | [💛](#) | [💚](#) | [💙](#) |
-| <img src="https://static.solved.ac/tier_small/11.svg" width="16px" /> | [7569 토마토](https://www.acmicpc.net/problem/7569)      | [💛](#) | [💚](#) | [💙](#) |
+| <img src="https://static.solved.ac/tier_small/11.svg" width="16px" /> | [7576 토마토](https://www.acmicpc.net/problem/7576)      | [💛](#) | [💚](#) | [💙](#) |
 | <img src="https://static.solved.ac/tier_small/8.svg" width="16px" />  | [15650 N과 M(2)](https://www.acmicpc.net/problem/7569)   | [💛](#) | [💚](#) | [💙](#) |
 
 <!-- </details> -->
