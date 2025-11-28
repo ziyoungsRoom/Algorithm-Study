@@ -201,8 +201,8 @@
 |                                난이도                                 | 문제 링크                                                | 지영 🟡                                                                                               | 민애 🟢 | 슬기 🔵 |
 | :-------------------------------------------------------------------: | -------------------------------------------------------- | ----------------------------------------------------------------------------------------------------- | ------- | ------- |
 | <img src="https://static.solved.ac/tier_small/11.svg" width="16px" /> | [1931 회의실 배정](https://www.acmicpc.net/problem/1931) | [💛](https://github.com/ziyoungsRoom/Algorithm-Study/commit/5d579e9d75f8a9df05c345a564a85d0aba498dce) | [💚](#) | [💙](#) |
-| <img src="https://static.solved.ac/tier_small/11.svg" width="16px" /> | [7576 토마토](https://www.acmicpc.net/problem/7576)      | [💛](#)                                                                                               | [💚](#) | [💙](#) |
-| <img src="https://static.solved.ac/tier_small/8.svg" width="16px" />  | [15650 N과 M(2)](https://www.acmicpc.net/problem/7569)   | [💛](#)                                                                                               | [💚](#) | [💙](#) |
+| <img src="https://static.solved.ac/tier_small/11.svg" width="16px" /> | [7576 토마토](https://www.acmicpc.net/problem/7576)      | [💛](https://github.com/ziyoungsRoom/Algorithm-Study/commit/5523c967076b65b7769cdb9cdc327354a4d119d4) | [💚](#) | [💙](#) |
+| <img src="https://static.solved.ac/tier_small/8.svg" width="16px" />  | [15650 N과 M(2)](https://www.acmicpc.net/problem/7569)   | [💛](https://github.com/ziyoungsRoom/Algorithm-Study/commit/fc2058f6d8d1c431854a80296aec01caa492c62b) | [💚](#) | [💙](#) |
 
 <!-- </details> -->
 
