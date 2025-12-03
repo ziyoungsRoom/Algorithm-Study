@@ -198,11 +198,11 @@
 
 <br>
 
-|                                난이도                                 | 문제 링크                                                                 | 지영 🟡 | 민애 🟢 | 슬기 🔵 |
-| :-------------------------------------------------------------------: | ------------------------------------------------------------------------- | ------- | ------- | ------- |
-| <img src="https://static.solved.ac/tier_small/11.svg" width="16px" /> | [15654 N과 M(5)](https://www.acmicpc.net/problem/15654)                   | [💛](#) | [💚](#) | [💙](#) |
-| <img src="https://static.solved.ac/tier_small/11.svg" width="16px" /> | [11053 가장 긴 증가하는 부분 수열](https://www.acmicpc.net/problem/11053) | [💛](#) | [💚](#) | [💙](#) |
-| <img src="https://static.solved.ac/tier_small/8.svg" width="16px" />  | [11725 트리의 부모 찾기](https://www.acmicpc.net/problem/11725)           | [💛](#) | [💚](#) | [💙](#) |
+|                                난이도                                | 문제 링크                                                                 | 지영 🟡 | 민애 🟢 | 슬기 🔵 |
+| :------------------------------------------------------------------: | ------------------------------------------------------------------------- | ------- | ------- | ------- |
+| <img src="https://static.solved.ac/tier_small/8.svg" width="16px" /> | [15654 N과 M(5)](https://www.acmicpc.net/problem/15654)                   | [💛](#) | [💚](#) | [💙](#) |
+| <img src="https://static.solved.ac/tier_small/9.svg" width="16px" /> | [11053 가장 긴 증가하는 부분 수열](https://www.acmicpc.net/problem/11053) | [💛](#) | [💚](#) | [💙](#) |
+| <img src="https://static.solved.ac/tier_small/9.svg" width="16px" /> | [11725 트리의 부모 찾기](https://www.acmicpc.net/problem/11725)           | [💛](#) | [💚](#) | [💙](#) |
 
 <!-- </details> -->
 
