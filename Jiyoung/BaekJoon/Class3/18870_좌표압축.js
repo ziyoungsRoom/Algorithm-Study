@@ -1,8 +1,10 @@
 // 언어 : Javascript , (성공/실패) : 1/1 , 메모리 : 321644 KB , 시간 : 1508 ms
 
-const input = '5 2 4 -10 4 -9';
+const input = require('fs').readFileSync('/dev/stdin').toString().split('\n');
 
-const nums = input.split(' ').map(Number).slice(1);
+input.shift();
+
+const nums = input[0].split(' ').map(Number);
 
 // Set : 중복 제거
 const sortedUniqueNums = [...new Set(nums)].sort((a, b) => a - b);
