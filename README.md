@@ -198,11 +198,11 @@
 
 <br>
 
-|                                난이도                                 | 문제 링크                                               | 지영 🟡 | 민애 🟢 | 슬기 🔵 |
-| :-------------------------------------------------------------------: | ------------------------------------------------------- | ------- | ------- | ------- |
-| <img src="https://static.solved.ac/tier_small/9.svg" width="16px" />  | [15663 N과 M(9)](https://www.acmicpc.net/problem/15663) | [💛](#) | [💚](#) | [💙](#) |
-| <img src="https://static.solved.ac/tier_small/10.svg" width="16px" /> | [1149 RGB거리](https://www.acmicpc.net/problem/11053)   | [💛](#) | [💚](#) | [💙](#) |
-| <img src="https://static.solved.ac/tier_small/10.svg" width="16px" /> | [1629 곱셈](https://www.acmicpc.net/problem/1629)       | [💛](#) | [💚](#) | [💙](#) |
+|                                난이도                                 | 문제 링크                                               | 지영 🟡 | 민애 🟢 | 슬기 🔵                                                                                               |
+| :-------------------------------------------------------------------: | ------------------------------------------------------- | ------- | ------- | ----------------------------------------------------------------------------------------------------- |
+| <img src="https://static.solved.ac/tier_small/9.svg" width="16px" />  | [15663 N과 M(9)](https://www.acmicpc.net/problem/15663) | [💛](#) | [💚](#) | [💙](https://github.com/ziyoungsRoom/Algorithm-Study/commit/fe4677282dc7476c71cb2c99090e9924995b03f6) |
+| <img src="https://static.solved.ac/tier_small/10.svg" width="16px" /> | [1149 RGB거리](https://www.acmicpc.net/problem/11053)   | [💛](#) | [💚](#) | [💙](https://github.com/ziyoungsRoom/Algorithm-Study/commit/dc06e79d9b9017b50d35667d571240f0cfb4f169) |
+| <img src="https://static.solved.ac/tier_small/10.svg" width="16px" /> | [1629 곱셈](https://www.acmicpc.net/problem/1629)       | [💛](#) | [💚](#) | [💙](https://github.com/ziyoungsRoom/Algorithm-Study/commit/a248a18f63e59f1d2bb487092f969e8dc20f75bd) |
 
 <!-- </details> -->
 
