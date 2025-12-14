@@ -198,11 +198,11 @@
 
 <br>
 
-|                                난이도                                 | 문제 링크                                               | 지영 🟡 | 민애 🟢 | 슬기 🔵 |
-| :-------------------------------------------------------------------: | ------------------------------------------------------- | ------- | ------- | ------- |
-| <img src="https://static.solved.ac/tier_small/9.svg" width="16px" />  | [15663 N과 M(9)](https://www.acmicpc.net/problem/15663) | [💛](#) | [💚](#) | [💙](#) |
-| <img src="https://static.solved.ac/tier_small/10.svg" width="16px" /> | [1149 RGB거리](https://www.acmicpc.net/problem/11053)   | [💛](#) | [💚](#) | [💙](#) |
-| <img src="https://static.solved.ac/tier_small/10.svg" width="16px" /> | [1629 곱셈](https://www.acmicpc.net/problem/1629)       | [💛](#) | [💚](#) | [💙](#) |
+|                                난이도                                 | 문제 링크                                               | 지영 🟡 | 민애 🟢                                                                                               | 슬기 🔵 |
+| :-------------------------------------------------------------------: | ------------------------------------------------------- | ------- | ----------------------------------------------------------------------------------------------------- | ------- |
+| <img src="https://static.solved.ac/tier_small/9.svg" width="16px" />  | [15663 N과 M(9)](https://www.acmicpc.net/problem/15663) | [💛](#) | [💚](https://github.com/ziyoungsRoom/Algorithm-Study/commit/620143980f1012d20b20b63b2c5cf252b6e2ff68) | [💙](#) |
+| <img src="https://static.solved.ac/tier_small/10.svg" width="16px" /> | [1149 RGB거리](https://www.acmicpc.net/problem/11053)   | [💛](#) | [💚](https://github.com/ziyoungsRoom/Algorithm-Study/commit/be41c561f738a15947c13fb9b7ab11aa1fbf11ad) | [💙](#) |
+| <img src="https://static.solved.ac/tier_small/10.svg" width="16px" /> | [1629 곱셈](https://www.acmicpc.net/problem/1629)       | [💛](#) | [💚](https://github.com/ziyoungsRoom/Algorithm-Study/commit/b195e24d10244153c17ca64b609e7d7c3fdab578) | [💙](#) |
 
 <!-- </details> -->
 
