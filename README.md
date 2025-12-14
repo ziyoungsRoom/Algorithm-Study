@@ -191,20 +191,35 @@
 
 ---
 
-## **Week 13** ![진행중](https://img.shields.io/badge/Status-진행중-yellow?style=flat-square&logo=gear)
+## **Week 14** ![진행중](https://img.shields.io/badge/Status-진행중-yellow?style=flat-square&logo=gear)
 
 <!-- <details> -->
 <summary><b>📋 문제 목록 보기</b></summary>
 
 <br>
 
-|                                난이도                                | 문제 링크                                                                 | 지영 🟡 | 민애 🟢                                                                                               | 슬기 🔵                                                                                               |
-| :------------------------------------------------------------------: | ------------------------------------------------------------------------- | ------- | ----------------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------- |
-| <img src="https://static.solved.ac/tier_small/8.svg" width="16px" /> | [15654 N과 M(5)](https://www.acmicpc.net/problem/15654)                   | [💛](#) | [💚](https://github.com/ziyoungsRoom/Algorithm-Study/commit/17bd8fe7d18c65e138370ad7b00c9223f7a7c06a) | [💙](https://github.com/ziyoungsRoom/Algorithm-Study/commit/dce1b79e59f946851d53d9af4a57bac8b04fd572) |
-| <img src="https://static.solved.ac/tier_small/9.svg" width="16px" /> | [11053 가장 긴 증가하는 부분 수열](https://www.acmicpc.net/problem/11053) | [💛](#) | [💚](https://github.com/ziyoungsRoom/Algorithm-Study/commit/80e8cbf603e7146e749e695e46b22c6a65392cec) | [💙](https://github.com/ziyoungsRoom/Algorithm-Study/commit/4ab06753d82efa1a963fc8d471f148203e62c631) |
-| <img src="https://static.solved.ac/tier_small/9.svg" width="16px" /> | [11725 트리의 부모 찾기](https://www.acmicpc.net/problem/11725)           | [💛](#) | [💚](https://github.com/ziyoungsRoom/Algorithm-Study/commit/cd48faa708788405b667eff191cacc870b2ee9d0) | [💙](https://github.com/ziyoungsRoom/Algorithm-Study/commit/2c8cc6968fcecd05a4239f111a71c65aef6a32f9) |
+|                                난이도                                 | 문제 링크                                               | 지영 🟡 | 민애 🟢 | 슬기 🔵 |
+| :-------------------------------------------------------------------: | ------------------------------------------------------- | ------- | ------- | ------- |
+| <img src="https://static.solved.ac/tier_small/9.svg" width="16px" />  | [15663 N과 M(9)](https://www.acmicpc.net/problem/15663) | [💛](#) | [💚](#) | [💙](#) |
+| <img src="https://static.solved.ac/tier_small/10.svg" width="16px" /> | [1149 RGB거리](https://www.acmicpc.net/problem/11053)   | [💛](#) | [💚](#) | [💙](#) |
+| <img src="https://static.solved.ac/tier_small/10.svg" width="16px" /> | [1629 곱셈](https://www.acmicpc.net/problem/1629)       | [💛](#) | [💚](#) | [💙](#) |
 
 <!-- </details> -->
+
+## **Week 13** ![완료](https://img.shields.io/badge/Status-완료-brightgreen?style=flat-square&logo=check)
+
+<details>
+<summary><b>📋 문제 목록 보기</b></summary>
+
+<br>
+
+|                                난이도                                | 문제 링크                                                                    | 지영 🟡                                                                                               | 민애 🟢                                                                                               | 슬기 🔵                                                                                               |
+| :------------------------------------------------------------------: | ---------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------- |
+| <img src="https://static.solved.ac/tier_small/8.svg" width="16px" /> | [15654 N과 M(5)](https://www.acmicpc.net/problem/15654)                      | [💛](https://github.com/ziyoungsRoom/Algorithm-Study/commit/45bc8fc3eeb661c39fab420e7372d596d970fa1c) | [💚](https://github.com/ziyoungsRoom/Algorithm-Study/commit/17bd8fe7d18c65e138370ad7b00c9223f7a7c06a) | [💙](https://github.com/ziyoungsRoom/Algorithm-Study/commit/dce1b79e59f946851d53d9af4a57bac8b04fd572) |
+| <img src="https://static.solved.ac/tier_small/9.svg" width="16px" /> | [💬 11053 가장 긴 증가하는 부분 수열](https://www.acmicpc.net/problem/11053) | [💛](https://github.com/ziyoungsRoom/Algorithm-Study/commit/a35fb48b1ce88f7bcda4f908052113913daa5869) | [💚](https://github.com/ziyoungsRoom/Algorithm-Study/commit/80e8cbf603e7146e749e695e46b22c6a65392cec) | [💙](https://github.com/ziyoungsRoom/Algorithm-Study/commit/4ab06753d82efa1a963fc8d471f148203e62c631) |
+| <img src="https://static.solved.ac/tier_small/9.svg" width="16px" /> | [11725 트리의 부모 찾기](https://www.acmicpc.net/problem/11725)              | [💛](https://github.com/ziyoungsRoom/Algorithm-Study/commit/e9bcfbeb0bbca930d1f8fa6371b16b88c1421205) | [💚](https://github.com/ziyoungsRoom/Algorithm-Study/commit/cd48faa708788405b667eff191cacc870b2ee9d0) | [💙](https://github.com/ziyoungsRoom/Algorithm-Study/commit/2c8cc6968fcecd05a4239f111a71c65aef6a32f9) |
+
+</details>
 
 ## **Week 12** ![완료](https://img.shields.io/badge/Status-완료-brightgreen?style=flat-square&logo=check)
 
