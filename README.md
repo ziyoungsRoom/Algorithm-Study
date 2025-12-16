@@ -191,20 +191,34 @@
 
 ---
 
-## **Week 14** ![진행중](https://img.shields.io/badge/Status-진행중-yellow?style=flat-square&logo=gear)
+## **Week 15** ![진행중](https://img.shields.io/badge/Status-진행중-yellow?style=flat-square&logo=gear)
 
 <!-- <details> -->
 <summary><b>📋 문제 목록 보기</b></summary>
 
 <br>
 
-|                                난이도                                 | 문제 링크                                               | 지영 🟡 | 민애 🟢 | 슬기 🔵                                                                                               |
-| :-------------------------------------------------------------------: | ------------------------------------------------------- | ------- | ------- | ----------------------------------------------------------------------------------------------------- |
-| <img src="https://static.solved.ac/tier_small/9.svg" width="16px" />  | [15663 N과 M(9)](https://www.acmicpc.net/problem/15663) | [💛](#) | [💚](#) | [💙](https://github.com/ziyoungsRoom/Algorithm-Study/commit/fe4677282dc7476c71cb2c99090e9924995b03f6) |
-| <img src="https://static.solved.ac/tier_small/10.svg" width="16px" /> | [1149 RGB거리](https://www.acmicpc.net/problem/11053)   | [💛](#) | [💚](#) | [💙](https://github.com/ziyoungsRoom/Algorithm-Study/commit/dc06e79d9b9017b50d35667d571240f0cfb4f169) |
-| <img src="https://static.solved.ac/tier_small/10.svg" width="16px" /> | [1629 곱셈](https://www.acmicpc.net/problem/1629)       | [💛](#) | [💚](#) | [💙](https://github.com/ziyoungsRoom/Algorithm-Study/commit/a248a18f63e59f1d2bb487092f969e8dc20f75bd) |
+|                                난이도                                 | 문제 링크                                                | 지영 🟡 | 민애 🟢 | 슬기 🔵 |
+| :-------------------------------------------------------------------: | -------------------------------------------------------- | ------- | ------- | ------- |
+| <img src="https://static.solved.ac/tier_small/10.svg" width="16px" /> | [1932 정수 삼각형](https://www.acmicpc.net/problem/1932) | [💛](#) | [💚](#) | [💙](#) |
+| <img src="https://static.solved.ac/tier_small/10.svg" width="16px" /> | [1991 트리 순회](https://www.acmicpc.net/problem/1991)   | [💛](#) | [💚](#) | [💙](#) |
 
 <!-- </details> -->
+
+## **Week 14** ![완료](https://img.shields.io/badge/Status-완료-brightgreen?style=flat-square&logo=check)
+
+<details>
+<summary><b>📋 문제 목록 보기</b></summary>
+
+<br>
+
+|                                난이도                                 | 문제 링크                                               | 지영 🟡                                                                                               | 민애 🟢                                                                                               | 슬기 🔵                                                                                               |
+| :-------------------------------------------------------------------: | ------------------------------------------------------- | ----------------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------- |
+| <img src="https://static.solved.ac/tier_small/9.svg" width="16px" />  | [15663 N과 M(9)](https://www.acmicpc.net/problem/15663) | [💛](https://github.com/ziyoungsRoom/Algorithm-Study/commit/cda0f6df9eee7dce3a1505c52c44dd7770b4c1d6) | [💚](https://github.com/ziyoungsRoom/Algorithm-Study/commit/620143980f1012d20b20b63b2c5cf252b6e2ff68) | [💙](https://github.com/ziyoungsRoom/Algorithm-Study/commit/fe4677282dc7476c71cb2c99090e9924995b03f6) |
+| <img src="https://static.solved.ac/tier_small/10.svg" width="16px" /> | [1149 RGB거리](https://www.acmicpc.net/problem/11053)   | [💛](https://github.com/ziyoungsRoom/Algorithm-Study/commit/77b656b914bee1deae261d933625cd82347ec8f7) | [💚](https://github.com/ziyoungsRoom/Algorithm-Study/commit/be41c561f738a15947c13fb9b7ab11aa1fbf11ad) | [💙](https://github.com/ziyoungsRoom/Algorithm-Study/commit/dc06e79d9b9017b50d35667d571240f0cfb4f169) |
+| <img src="https://static.solved.ac/tier_small/10.svg" width="16px" /> | [💬 1629 곱셈](https://www.acmicpc.net/problem/1629)    | [💛](https://github.com/ziyoungsRoom/Algorithm-Study/commit/5f5fb51b1def5c3fec24e51cb648f6b1bf128a98) | [💚](https://github.com/ziyoungsRoom/Algorithm-Study/commit/b195e24d10244153c17ca64b609e7d7c3fdab578) | [💙](https://github.com/ziyoungsRoom/Algorithm-Study/commit/a248a18f63e59f1d2bb487092f969e8dc20f75bd) |
+
+</details>
 
 ## **Week 13** ![완료](https://img.shields.io/badge/Status-완료-brightgreen?style=flat-square&logo=check)
 
