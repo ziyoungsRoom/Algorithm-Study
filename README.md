@@ -198,10 +198,10 @@
 
 <br>
 
-|                                난이도                                 | 문제 링크                                                | 지영 🟡 | 민애 🟢 | 슬기 🔵 |
-| :-------------------------------------------------------------------: | -------------------------------------------------------- | ------- | ------- | ------- |
-| <img src="https://static.solved.ac/tier_small/10.svg" width="16px" /> | [1932 정수 삼각형](https://www.acmicpc.net/problem/1932) | [💛](#) | [💚](#) | [💙](#) |
-| <img src="https://static.solved.ac/tier_small/10.svg" width="16px" /> | [1991 트리 순회](https://www.acmicpc.net/problem/1991)   | [💛](#) | [💚](#) | [💙](#) |
+|                                난이도                                 | 문제 링크                                                | 지영 🟡 | 민애 🟢                                                                                               | 슬기 🔵 |
+| :-------------------------------------------------------------------: | -------------------------------------------------------- | ------- | ----------------------------------------------------------------------------------------------------- | ------- |
+| <img src="https://static.solved.ac/tier_small/10.svg" width="16px" /> | [1932 정수 삼각형](https://www.acmicpc.net/problem/1932) | [💛](#) | [💚](https://github.com/ziyoungsRoom/Algorithm-Study/commit/57af12c797017eaabe7aa1cf1d33cc0fb8e3deaa) | [💙](#) |
+| <img src="https://static.solved.ac/tier_small/10.svg" width="16px" /> | [1991 트리 순회](https://www.acmicpc.net/problem/1991)   | [💛](#) | [💚](https://github.com/ziyoungsRoom/Algorithm-Study/commit/f79f5396011c85a6e25481abc4f7f23f61c44ad7) | [💙](#) |
 
 <!-- </details> -->
 
