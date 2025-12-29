@@ -425,11 +425,10 @@
 ## **Week 1** ![워밍업](https://img.shields.io/badge/Special-워밍업-blue?style=flat-square&logo=thermometer)
 
 <details>
-
-
 <summary><b>📋 문제 목록 보기</b></summary>
 
 <br>
+
 |                                난이도                                 | 문제 링크                                                    |                                                지영 🟡                                                |                                                민애 🟢                                                |                                                슬기 🔵                                                |
 | :-------------------------------------------------------------------: | ------------------------------------------------------------ | :---------------------------------------------------------------------------------------------------: | :---------------------------------------------------------------------------------------------------: | :---------------------------------------------------------------------------------------------------: |
 | <img src="https://static.solved.ac/tier_small/s1.svg" width="16px" /> | [1008 A/B](https://www.acmicpc.net/problem/1008)             | [💛](https://github.com/ziyoungsRoom/Algorithm-Study/commit/3fda225a2693e2c757d2f209de4a66ff58f2d9fa) | [💚](https://github.com/ziyoungsRoom/Algorithm-Study/commit/9b555fa73c224edc4c463ee59eb700937adcd3a1) | [💙](https://github.com/ziyoungsRoom/Algorithm-Study/commit/90182ed818f09cceda6e8bd028ed34923eade8c1) |
@@ -450,8 +449,6 @@
 | <img src="https://static.solved.ac/tier_small/4.svg" width="16px" />  | [2675 문자열 반복](https://www.acmicpc.net/problem/2675)     | [💛](https://github.com/ziyoungsRoom/Algorithm-Study/commit/2d0a56b0b2bc35e8a36ad365059452de295a5c64) | [💚](https://github.com/ziyoungsRoom/Algorithm-Study/commit/19528aa6056bc8104b68968ecd0c4a7359ebb7c4) | [💙](https://github.com/ziyoungsRoom/Algorithm-Study/commit/3338cc0077c42891a4a579115674aa4e59273116) |
 
 </details>
-
-<br>
 
 ## 🎉 마지막으로
 
