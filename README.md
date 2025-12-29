@@ -12,9 +12,13 @@
 
 복잡한 문제도 함께라면 **Solve It!** 할 수 있습니다!
 
-기간 : 2025.08.01 - 2025.12.29<br>
+<br>
 
-[🎯 BaekJoon 바로가기](https://www.acmicpc.net/step) | [📊 노션 대시보드](https://solve-it.notion.site/solve-it-study)
+**📅 2025.08.01 - 2025.12.29 (5개월)**
+
+<div align="center">
+<a href="https://www.acmicpc.net/step"><img src="https://img.shields.io/badge/BaekJoon-⮕-0078D4?style=for-the-badge&logo=codeforces&logoColor=white&labelColor=555555" alt="BaekJoon" /></a>     <a href="https://solve-it.notion.site/solve-it-study"><img src="https://img.shields.io/badge/Notion%20Dashboard-⮕-FF8C00?style=for-the-badge&logo=notion&logoColor=white&labelColor=555555" alt="Notion" /></a>
+</div>
 
 </div>
 
@@ -145,12 +149,12 @@
 
 | 작업 타입   | 작업내용                                   |
 | ----------- | ------------------------------------------ |
-| ✨ feat     | 새로운 문제 풀이 추가                      |
-| 🩹 fix      | 오타, 논리 오류 등 간단한 수정             |
-| ✏️ docs     | README, 주석, 풀이 설명 등 문서 수정       |
-| 🍻 test     | 테스트 코드 추가 - ex. input/output 테스트 |
-| ♻️ refactor | 코드 리팩토링, 로직 변경 없이 구조 개선    |
-| 🔨 chore    | 폴더 구조 수정, 파일 이동, 기타 설정 등    |
+|    feat     | 새로운 문제 풀이 추가                      |
+|    fix      | 오타, 논리 오류 등 간단한 수정             |
+|    docs     | README, 주석, 풀이 설명 등 문서 수정       |
+|    test     | 테스트 코드 추가 - ex. input/output 테스트 |
+|    refactor | 코드 리팩토링, 로직 변경 없이 구조 개선    |
+|    chore    | 폴더 구조 수정, 파일 이동, 기타 설정 등    |
 
 ### ⚠️ **주의 사항**
 
@@ -450,17 +454,46 @@
 
 </details>
 
-## 🎉 마지막으로
+---
+
+<br>
+
+## 🎓 16주간의 여정
 
 <div align="center">
-  
-<br>
-  
-**🌟 "혼자 가면 빠르지만, 함께 가면 멀리 간다" 🌟**
-
-**복잡한 문제도 함께라면 Solve It! 💪**
 
 <br>
+
+| 항목 | 성과 |
+|:---:|:---:|
+| 📅 **기간** | 2025.08.01 - 2025.12.29 (5개월) |
+| 💪 **해결 문제** | 총 66+ 문제 |
+| 💬 **코드 리뷰** | 20+ 문제 심화 리뷰 |
+| 🎥 **화상 미팅** | 격주 1회, 100% 참석 |
+| 🏆 **목표 달성** | Bronze → Silver → Gold 달성! |
+
+<br>
+
+### 주요 학습 알고리즘
+`동적 프로그래밍` `BFS/DFS` `백트래킹` `분할 정복` `그리디` `이진 탐색` `구간 합` `자료구조`
+
+</div>
+
+<br>
+
+## 💬 스터디를 마치며
+
+<div align="center">
+
+<br>
+
+**"혼자 가면 빠르지만, 함께 가면 멀리 간다"**
+
+**복잡한 문제도 함께라면 Solve It!**
+
+<br>
+
+**함께여서 가능했던 5개월, 다음 목표를 향해 또 달려봐요!**
 
 ⭐ **이 스터디가 도움이 되셨다면 Star를 눌러주세요!** ⭐
 
