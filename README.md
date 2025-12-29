@@ -198,10 +198,11 @@
 
 <br>
 
-|                                난이도                                 | 문제 링크                                                      | 지영 🟡                                                                                               | 민애 🟢 | 슬기 🔵 |
-| :-------------------------------------------------------------------: | -------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------- | ------- | ------- |
-| <img src="https://static.solved.ac/tier_small/10.svg" width="16px" /> | [9465 스티커](https://www.acmicpc.net/problem/9465)            | [💛](https://github.com/ziyoungsRoom/Algorithm-Study/commit/db714bbcbee43183de22ec4aa9c4aee19be78ce1) | [💚](#) | [💙](#) |
-| <img src="https://static.solved.ac/tier_small/10.svg" width="16px" /> | [11660 구간 합 구하기5](https://www.acmicpc.net/problem/11660) | [💛](https://github.com/ziyoungsRoom/Algorithm-Study/commit/fd18807030f433ceb00e32ff9d09b52d72629881) | [💚](#) | [💙](#) |
+
+|                                난이도                                 | 문제 링크                                                      | 지영 🟡 | 민애 🟢                                                                                               | 슬기 🔵                                                                                               |
+| :-------------------------------------------------------------------: | -------------------------------------------------------------- | ------- | ----------------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------- |
+| <img src="https://static.solved.ac/tier_small/10.svg" width="16px" /> | [9465 스티커](https://www.acmicpc.net/problem/9465)            | [💛](https://github.com/ziyoungsRoom/Algorithm-Study/commit/db714bbcbee43183de22ec4aa9c4aee19be78ce1) | [💚](https://github.com/ziyoungsRoom/Algorithm-Study/commit/5933b277d78ffdcf076483612fc58cfd3f3d73bf) | [💙](https://github.com/ziyoungsRoom/Algorithm-Study/commit/170f5b3d49cbfa079456c0d0f1f72a1cba46d4fa) |
+| <img src="https://static.solved.ac/tier_small/10.svg" width="16px" /> | [11660 구간 합 구하기5](https://www.acmicpc.net/problem/11660) | [💛](https://github.com/ziyoungsRoom/Algorithm-Study/commit/fd18807030f433ceb00e32ff9d09b52d72629881) | [💚](https://github.com/ziyoungsRoom/Algorithm-Study/commit/6282712c29e8f5bb80cd5e13c62267732e682f92) | [💙](https://github.com/ziyoungsRoom/Algorithm-Study/commit/4d10d3cd6b1d19b22d8b347b2a15e6a84de1a923) |
 
 <!-- </details> -->
 
