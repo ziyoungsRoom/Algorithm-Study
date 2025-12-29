@@ -12,7 +12,7 @@
 
 복잡한 문제도 함께라면 **Solve It!** 할 수 있습니다!
 
-기간 : 2025.08.01 - <br>
+기간 : 2025.08.01 - 2025.12.29<br>
 
 [🎯 BaekJoon 바로가기](https://www.acmicpc.net/step) | [📊 노션 대시보드](https://solve-it.notion.site/solve-it-study)
 
@@ -191,9 +191,9 @@
 
 ---
 
-## **Week 16** ![진행중](https://img.shields.io/badge/Status-진행중-yellow?style=flat-square&logo=gear)
+## **Week 16** ![목표달성](https://img.shields.io/badge/Status-목표달성-yellow?style=flat-square&logo=gear)
 
-<!-- <details> -->
+<details>
 <summary><b>📋 문제 목록 보기</b></summary>
 
 <br>
@@ -202,9 +202,9 @@
 |                                난이도                                 | 문제 링크                                                      | 지영 🟡 | 민애 🟢                                                                                               | 슬기 🔵                                                                                               |
 | :-------------------------------------------------------------------: | -------------------------------------------------------------- | ------- | ----------------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------- |
 | <img src="https://static.solved.ac/tier_small/10.svg" width="16px" /> | [9465 스티커](https://www.acmicpc.net/problem/9465)            | [💛](https://github.com/ziyoungsRoom/Algorithm-Study/commit/db714bbcbee43183de22ec4aa9c4aee19be78ce1) | [💚](https://github.com/ziyoungsRoom/Algorithm-Study/commit/5933b277d78ffdcf076483612fc58cfd3f3d73bf) | [💙](https://github.com/ziyoungsRoom/Algorithm-Study/commit/170f5b3d49cbfa079456c0d0f1f72a1cba46d4fa) |
-| <img src="https://static.solved.ac/tier_small/10.svg" width="16px" /> | [11660 구간 합 구하기5](https://www.acmicpc.net/problem/11660) | [💛](https://github.com/ziyoungsRoom/Algorithm-Study/commit/fd18807030f433ceb00e32ff9d09b52d72629881) | [💚](https://github.com/ziyoungsRoom/Algorithm-Study/commit/6282712c29e8f5bb80cd5e13c62267732e682f92) | [💙](https://github.com/ziyoungsRoom/Algorithm-Study/commit/4d10d3cd6b1d19b22d8b347b2a15e6a84de1a923) |
+| <img src="https://static.solved.ac/tier_small/10.svg" width="16px" /> | [💬 11660 구간 합 구하기5](https://www.acmicpc.net/problem/11660) | [💛](https://github.com/ziyoungsRoom/Algorithm-Study/commit/fd18807030f433ceb00e32ff9d09b52d72629881) | [💚](https://github.com/ziyoungsRoom/Algorithm-Study/commit/6282712c29e8f5bb80cd5e13c62267732e682f92) | [💙](https://github.com/ziyoungsRoom/Algorithm-Study/commit/4d10d3cd6b1d19b22d8b347b2a15e6a84de1a923) |
 
-<!-- </details> -->
+</details>
 
 ## **Week 15** ![완료](https://img.shields.io/badge/Status-완료-brightgreen?style=flat-square&logo=check)
 
@@ -404,9 +404,8 @@
 
 <details>
 
-<br>
-  
 <summary><b>📋 문제 목록 보기</b></summary>
+<br>
 
 |                                난이도                                | 문제 링크                                                               |                                                지영 🟡                                                |                                                민애 🟢                                                |                                                슬기 🔵                                                |
 | :------------------------------------------------------------------: | ----------------------------------------------------------------------- | :---------------------------------------------------------------------------------------------------: | :---------------------------------------------------------------------------------------------------: | :---------------------------------------------------------------------------------------------------: |
@@ -427,10 +426,10 @@
 
 <details>
 
-<br>
 
 <summary><b>📋 문제 목록 보기</b></summary>
 
+<br>
 |                                난이도                                 | 문제 링크                                                    |                                                지영 🟡                                                |                                                민애 🟢                                                |                                                슬기 🔵                                                |
 | :-------------------------------------------------------------------: | ------------------------------------------------------------ | :---------------------------------------------------------------------------------------------------: | :---------------------------------------------------------------------------------------------------: | :---------------------------------------------------------------------------------------------------: |
 | <img src="https://static.solved.ac/tier_small/s1.svg" width="16px" /> | [1008 A/B](https://www.acmicpc.net/problem/1008)             | [💛](https://github.com/ziyoungsRoom/Algorithm-Study/commit/3fda225a2693e2c757d2f209de4a66ff58f2d9fa) | [💚](https://github.com/ziyoungsRoom/Algorithm-Study/commit/9b555fa73c224edc4c463ee59eb700937adcd3a1) | [💙](https://github.com/ziyoungsRoom/Algorithm-Study/commit/90182ed818f09cceda6e8bd028ed34923eade8c1) |
